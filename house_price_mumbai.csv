@@ -33,7 +33,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,KP KrishnaGoregaon East,Goregaon East,Mumbai,485,29007,140
 1,Jindal AvenuePanvel,Panvel,Mumbai,261,17433,45.5
 1,Kalyan ViharKalyan West,Kalyan West,Mumbai,477,8071,38.49
-2,Arihant Arihant EnclaveAndheri East,Andheri East,Mumbai,655,29312,1.91
+2,Arihant Arihant EnclaveAndheri East,Andheri East,Mumbai,655,29312,191
 1,Bombay CastleDronagiri,Dronagiri,Mumbai,428,8294,35.5
 2,Shakuntala Shree Puram TownshipUmroli,Umroli,Mumbai,950,2500,23.75
 1,Viva VedantaVirar,Virar,Mumbai,527,8595,45.3
@@ -61,8 +61,8 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Konark Zen GardensKandivali West,Kandivali West,Mumbai,644,31677,2.04
 2,Avant HillwayMalad East,Malad East,Mumbai,670,22500,150
 2,Siddhivinayak AnayaDronagiri,Dronagiri,Mumbai,650,8923,57.99
-3,Kalpataru WoodsvillePowai,Powai,Mumbai,1239,38461,4.76
-2,The Goyal Dinaco Darshan CHSLDahisar,Dahisar,Mumbai,542,21500,1.16
+3,Kalpataru WoodsvillePowai,Powai,Mumbai,1239,38461,476
+2,The Goyal Dinaco Darshan CHSLDahisar,Dahisar,Mumbai,542,21500,116
 2,Luv Concept RiversideTaloja,Taloja,Mumbai,585,7265,42.5
 1,Today Belantara Rasayani,Rasayani,Mumbai,343,6851,23.5
 2,Romell AllureBorivali East,Borivali East,Mumbai,567,25573,145
@@ -121,9 +121,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Today Belantara Rasayani,Rasayani,Mumbai,421,6294,26.5
 1,Thanekar CivicBadlapur West,Badlapur West,Mumbai,368,6793,25
 2,Thanekar CivicBadlapur West,Badlapur West,Mumbai,485,6670,32.35
-2,RRB Satra HarmonyChembur,Chembur,Mumbai,834,25692,2.14
-2,RRB Satra HarmonyChembur,Chembur,Mumbai,841,25692,2.16
-2,RRB Satra HarmonyChembur,Chembur,Mumbai,825,25692,2.11
+2,RRB Satra HarmonyChembur,Chembur,Mumbai,834,25692,214
+2,RRB Satra HarmonyChembur,Chembur,Mumbai,841,25692,216
+2,RRB Satra HarmonyChembur,Chembur,Mumbai,825,25692,211
 2,RRB Satra HarmonyChembur,Chembur,Mumbai,775,23681,183
 2,RRB Satra HarmonyChembur,Chembur,Mumbai,528,25692,135
 2,RRB Satra HarmonyChembur,Chembur,Mumbai,511,25692,131
@@ -190,7 +190,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Hirani ShantidhamVikhroli,Vikhroli,Mumbai,444,19943,88.54
 1,Hirani ShantidhamVikhroli,Vikhroli,Mumbai,390,20014,78.05
 1,Hirani ShantidhamVikhroli,Vikhroli,Mumbai,408,19988,81.55
-3,Nrose Northern HillsDahisar,Dahisar,Mumbai,1093,20768,2.27
+3,Nrose Northern HillsDahisar,Dahisar,Mumbai,1093,20768,227
 2,Nrose Northern HillsDahisar,Dahisar,Mumbai,701,21255,149
 1,BG Shirke Parijat Hill ViewBorivali East,Borivali East,Mumbai,437,22196,97
 2,BG Shirke Parijat Hill ViewBorivali East,Borivali East,Mumbai,619,23424,145
@@ -205,7 +205,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,A Plus Golden CornerBadlapur West,Badlapur West,Mumbai,535,3299,17.65
 1,A Plus Golden CornerBadlapur West,Badlapur West,Mumbai,565,3299,18.64
 1,A Plus Golden CornerBadlapur West,Badlapur West,Mumbai,380,3600,13.68
-3,S Square Rudraksh Heritage Wing A And Wing BMulund West,Mulund West,Mumbai,1292,29179,3.77
+3,S Square Rudraksh Heritage Wing A And Wing BMulund West,Mulund West,Mumbai,1292,29179,377
 2,S Square Rudraksh Heritage Wing A And Wing BMulund West,Mulund West,Mumbai,758,29683,225
 1,A Plus Golden VedaBadlapur West,Badlapur West,Mumbai,345,5771,19.91
 1,A Plus Golden VedaBadlapur West,Badlapur West,Mumbai,352,5823,20.5
@@ -219,20 +219,20 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,B G Shirke Monte Verita North AnnexeBorivali East,Borivali East,Mumbai,764,24214,185
 2,Arihant Clan Aalishan Phase 1Kharghar,Kharghar,Mumbai,708,15408,109
 3,Arihant Clan Aalishan Phase 1Kharghar,Kharghar,Mumbai,923,15260,140
-2,Arihant Clan Aalishan Phase 1Kharghar,Kharghar,Mumbai,694,15392,1.06
+2,Arihant Clan Aalishan Phase 1Kharghar,Kharghar,Mumbai,694,15392,106
 1,Shantee Sunshine Green ParkVasai,Vasai,Mumbai,401,6130,24.58
 1,Shantee Sunshine Green ParkVasai,Vasai,Mumbai,440,6434,28.31
 1,Shantee Sunshine Green ParkVasai,Vasai,Mumbai,334,6571,21.95
 1,Shantee Sunshine Green ParkVasai,Vasai,Mumbai,383,6532,25.02
-2,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1275,11843,1.51
-3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1875,11520,2.16
+2,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1275,11843,151
+3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1875,11520,216
 2,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1415,11660,165
-4,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,3295,11562,3.81
-3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1890,11534,2.18
-3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1855,11536,2.14
-3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,2025,11456,2.32
+4,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,3295,11562,381
+3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1890,11534,218
+3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1855,11536,214
+3,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,2025,11456,232
 2,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,1400,11714,164
-4,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,3405,11541,3.93
+4,Paradise Sai World EmpireKharghar,Kharghar,Mumbai,3405,11541,393
 2,RKR Precious ImperialAmbernath East,Ambernath East,Mumbai,662,5392,35.69
 1,RKR Precious ImperialAmbernath East,Ambernath East,Mumbai,438,5392,23.61
 1,Shantee Sunshine Green ParkVasai,Vasai,Mumbai,280,6817,19.09
@@ -243,7 +243,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Shree Karma HeightsVasai,Vasai,Mumbai,685,5309,36.37
 2,Shree Karma HeightsVasai,Vasai,Mumbai,1100,5454,60
 3,NA,Dombivali East,Mumbai,1595,9090,145
-2,Reputed Builder Swapna ShilpaNo41Chembur,Chembur,Mumbai,570,19298,1.1
+2,Reputed Builder Swapna ShilpaNo41Chembur,Chembur,Mumbai,570,19298,110
 1,PNK Poonam Sagar ComplexMira Road East,Mira Road East,Mumbai,580,11896,69
 2,NA,Badlapur East,Mumbai,1000,3000,30
 1,Chandiwala Pearl HeightAndheri West,Andheri West,Mumbai,534,2902,15.5
@@ -252,8 +252,8 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Shreedham SplendourAndheri West,Andheri West,Mumbai,246,27909,68.65
-1,Shreedham SplendourAndheri West,Andheri West,Mumbai,503,27598,1.38
-1,Shreedham SplendourAndheri West,Andheri West,Mumbai,514,27591,1.41
+1,Shreedham SplendourAndheri West,Andheri West,Mumbai,503,27598,138
+1,Shreedham SplendourAndheri West,Andheri West,Mumbai,514,27591,141
 1,Shreedham SplendourAndheri West,Andheri West,Mumbai,323,25664,82.89
 1,Shreedham SplendourAndheri West,Andheri West,Mumbai,237,25832,61.22
 1,Shreedham SplendourAndheri West,Andheri West,Mumbai,275,25745,70.8
@@ -282,7 +282,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Kalwa,Mumbai,535,8598,46
 2,NA,Kalyan West,Mumbai,825,6545,54
 6,Reputed Builder Vasu KamalPowai,Powai,Mumbai,2002,14985,300
-3,Reputed Builder Vasu KamalPowai,Powai,Mumbai,2000,14300,2.86
+3,Reputed Builder Vasu KamalPowai,Powai,Mumbai,2000,14300,286
 2,NA,Goregaon East,Mumbai,854,21662,185
 1,Umiya Jewel VistaBadlapur West,Badlapur West,Mumbai,695,3309,23
 1,V K LAL VKLAL VISHNU PHASE IDahisar,Dahisar,Mumbai,420,16199,68.03
@@ -401,7 +401,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 4,Runwal Forest Tower 5 To 8Kanjurmarg,Kanjurmarg,Mumbai,1100,16818,185
 1,NA,Parel,Mumbai,250,39200,98
 1,NA,Chembur,Mumbai,500,21000,105
-1,Devnani CVIIChembur,Chembur,Mumbai,410,26829,1.1
+1,Devnani CVIIChembur,Chembur,Mumbai,410,26829,110
 1,Reputed Builder Shiv Darshan CHSSanpada,Sanpada,Mumbai,655,5801,38
 1,NA,Ulwe,Mumbai,505,6237,31.5
 1,NA,Karanjade,Mumbai,651,5837,38
@@ -415,8 +415,8 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder Shree Krishna DarshanKalwa,Kalwa,Mumbai,575,10782,62
 1,Eeshan White RoseThane West,Thane West,Mumbai,550,6545,36
 1,Reputed Builder Gaurav Enclave ApartmentMulund West,Mulund West,Mumbai,501,16167,81
-1,NA,Girgaon,Mumbai,570,19298,1.1
-2,NA,Sion,Mumbai,811,18249,1.48
+1,NA,Girgaon,Mumbai,570,19298,110
+2,NA,Sion,Mumbai,811,18249,148
 1,NA,Nerul,Mumbai,590,15254,90
 2,NA,Kandivali West,Mumbai,650,21538,140
 1,Kalyan ViharKalyan West,Kalyan West,Mumbai,477,8071,38.49
@@ -433,7 +433,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Belapur,Mumbai,700,10714,75
 1,SS Balaji KrishnaDombivali,Dombivali,Mumbai,671,6408,43
 1,Cidco FAM CHSKoper Khairane,Koper Khairane,Mumbai,338,12869,43.5
-2,NA,Mira Road East,Mumbai,800,13750,1.1
+2,NA,Mira Road East,Mumbai,800,13750,110
 1,NA,Kharghar,Mumbai,600,5000,30
 2,NA,Kharghar,Mumbai,1100,6818,75
 1,NA,Kharghar,Mumbai,635,3700,23.49
@@ -497,11 +497,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 4,NA,Andheri West,Mumbai,2700,92592,2500
 1,Padmawati RudranshPalghar,Palghar,Mumbai,475,3684,17.5
 1,Sai Deep HeightsDombivali,Dombivali,Mumbai,590,5000,29.5
-2,Lodha AquaMira Road East,Mira Road East,Mumbai,1021,10871,1.11
+2,Lodha AquaMira Road East,Mira Road East,Mumbai,1021,10871,111
 1,NA,Kharghar,Mumbai,620,3870,23.99
 1,NA,Kharghar,Mumbai,640,3906,25
 1,Sudarshan Sky HeightsThane West,Thane West,Mumbai,453,16335,74
-2,Sudarshan Sky HeightsThane West,Thane West,Mumbai,668,15419,1.03
+2,Sudarshan Sky HeightsThane West,Thane West,Mumbai,668,15419,103
 2,Sudarshan Sudarshan Lands EndMalad West,Malad West,Mumbai,706,21246,149
 2,Sudarshan Sudarshan Lands EndMalad West,Malad West,Mumbai,649,20030,129
 1,Shree Yogeshwar Yogeshwar ParkDombivali,Dombivali,Mumbai,600,3500,21
@@ -532,11 +532,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Ahuja ClassiqueChembur,Chembur,Mumbai,582,16323,95
 1,Reputed Builder Sunder TowerSewri,Sewri,Mumbai,500,26000,130
 1,NA,Ghatkopar East,Mumbai,430,18139,78
-2,Lodha EternisAndheri East,Andheri East,Mumbai,1200,17500,2.1
+2,Lodha EternisAndheri East,Andheri East,Mumbai,1200,17500,210
 1,Beauty LandmarkBhandup West,Bhandup West,Mumbai,550,14909,82
 1,NA,Hendre Pada,Mumbai,650,3230,21
-2,Ahuja ClassiqueChembur,Chembur,Mumbai,1150,13913,1.6
-2,Ahuja ClassiqueChembur,Chembur,Mumbai,1100,14545,1.6
+2,Ahuja ClassiqueChembur,Chembur,Mumbai,1150,13913,160
+2,Ahuja ClassiqueChembur,Chembur,Mumbai,1100,14545,160
 2,NA,Thane West,Mumbai,975,14871,145
 2,Rite SkyluxeChembur,Chembur,Mumbai,1050,16952,178
 1,Green Sai Elite A And B WingDombivali,Dombivali,Mumbai,575,5300,30.47
@@ -572,11 +572,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Saran Ciba SocietyGhatkopar West,Ghatkopar West,Mumbai,350,16714,58.5
 1,Vimal ResidencyNala Sopara,Nala Sopara,Mumbai,580,5862,34
 1,Vimal ResidencyNala Sopara,Nala Sopara,Mumbai,550,6181,34
-2,Alag OliveGhatkopar East,Ghatkopar East,Mumbai,581,19965,1.16
+2,Alag OliveGhatkopar East,Ghatkopar East,Mumbai,581,19965,116
 1,Kanakia Country ParkBorivali East,Borivali East,Mumbai,540,19444,105
 1,Sheth Vasant UtsavKandivali East,Kandivali East,Mumbai,560,17321,97
 1,NA,Kharghar,Mumbai,600,5000,30
-4,NA,Ville Parle East,Mumbai,2300,35869,8.25
+4,NA,Ville Parle East,Mumbai,2300,35869,825
 2,Rutu EstateThane West,Thane West,Mumbai,890,10674,95
 3,NA,Mumbai Central,Mumbai,2400,25000,600
 1,NA,Shelu,Mumbai,520,2500,13
@@ -585,7 +585,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,New Balaji Nagar,Mumbai,565,3362,19
 1,Ajmera Yogi DhamKalyan West,Kalyan West,Mumbai,730,7123,52
 1,Ekta ParksvilleVirar,Virar,Mumbai,680,3898,26.51
-4,Ssakash Bobe Chandralekha CHSLDahisar,Dahisar,Mumbai,1452,21418,3.11
+4,Ssakash Bobe Chandralekha CHSLDahisar,Dahisar,Mumbai,1452,21418,311
 2,Ssakash Bobe Chandralekha CHSLDahisar,Dahisar,Mumbai,726,21349,155
 4,NA,Dahisar East,Mumbai,1974,25329,500
 1,NA,Dombivali East,Mumbai,300,5000,15
@@ -597,14 +597,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Sumit GreendaleVirar,Virar,Mumbai,650,5615,36.5
 1,NA,Colaba,Mumbai,600,31666,190
 1,Reputed Builder Sai Sahawas CHSAndheri West,Andheri West,Mumbai,614,11889,73
-2,Raheja SherwoodGoregaon East,Goregaon East,Mumbai,1010,20495,2.07
+2,Raheja SherwoodGoregaon East,Goregaon East,Mumbai,1010,20495,207
 2,Satyam MayfairUlwe,Ulwe,Mumbai,1150,11739,135
 2,Bhagwati Greens 1Kharghar,Kharghar,Mumbai,1150,4260,49
 2,Bhagwati Greens 1Kharghar,Kharghar,Mumbai,1150,7739,89
 1,NA,Kharghar,Mumbai,650,3846,25
 1,Konnark GardensTaloja,Taloja,Mumbai,670,4179,28
 2,Anant ResidencyPanvel,Panvel,Mumbai,577,6897,39.79
-2,NA,Andheri East,Mumbai,625,17600,1.1
+2,NA,Andheri East,Mumbai,625,17600,110
 1,NA,Kandivali West,Mumbai,591,14043,83
 3,Swaraj Homes Gelda DhamGhatkopar West,Ghatkopar West,Mumbai,1008,18849,190
 1,Vijay GalaxyThane West,Thane West,Mumbai,665,12030,80
@@ -617,7 +617,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Mulund West,Mumbai,620,15322,95
 1,NA,Juhu,Mumbai,680,34558,235
 1,NA,Kurla West,Mumbai,220,18181,40
-4,NA,Vasai east,Mumbai,1420,9507,1.34
+4,NA,Vasai east,Mumbai,1420,9507,134
 2,Anant ResidencyPanvel,Panvel,Mumbai,526,6920,36.39
 1,Anant ResidencyPanvel,Panvel,Mumbai,410,6951,28.49
 1,Anant ResidencyPanvel,Panvel,Mumbai,425,6941,29.49
@@ -683,7 +683,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Ambivli,Mumbai,400,2500,10
 1,NA,Kurla West,Mumbai,510,12745,65
 2,Puraniks Hometown Phase 2Thane West,Thane West,Mumbai,525,10285,54
-3,Godrej PrimeChembur,Chembur,Mumbai,1300,24615,3.2
+3,Godrej PrimeChembur,Chembur,Mumbai,1300,24615,320
 1,Ashiana LA Arihant HarmonyKarjat,Karjat,Mumbai,375,3149,11.81
 1,Ashiana LA Arihant HarmonyKarjat,Karjat,Mumbai,400,3125,12.5
 2,Ashiana LA Arihant HarmonyKarjat,Karjat,Mumbai,850,3176,27
@@ -692,13 +692,13 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Kharghar,Mumbai,976,8196,80
 2,NA,Ambernath West,Mumbai,500,2500,12.5
 2,Divyam ResidencyMalad East,Malad East,Mumbai,1160,2478,28.75
-3,NA,Mulund West,Mumbai,910,17582,1.6
+3,NA,Mulund West,Mumbai,910,17582,160
 2,NA,Dahisar East,Mumbai,920,15217,140
 4,Evershine ClassiqueVasai,Vasai,Mumbai,1700,5117,87
 1,Reputed Builder Vijay ApartmentThane West,Thane West,Mumbai,550,4545,25
 1,NA,Dombivli (West),Mumbai,485,5500,26.67
 1,Space India Blue CrestKaranjade,Karanjade,Mumbai,675,7111,48
-3,Suvidha EmeraldDadar West,Dadar West,Mumbai,2300,41304,9.5
+3,Suvidha EmeraldDadar West,Dadar West,Mumbai,2300,41304,950
 1,Sai Proviso Homes LandscapePanvel,Panvel,Mumbai,700,4000,28
 1,Swastik HeightsDombivali,Dombivali,Mumbai,500,5520,27.6
 1,NA,Dombivali East,Mumbai,445,5505,24.5
@@ -848,7 +848,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 4,Kalpataru SolitaireJuhu,Juhu,Mumbai,2400,79166,1900
 1,NA,Dombivli (West),Mumbai,545,5596,30.5
 2,Man OpusMira Road East,Mira Road East,Mumbai,1020,8333,85
-2,Lodha AquaMira Road East,Mira Road East,Mumbai,1020,11372,1.16
+2,Lodha AquaMira Road East,Mira Road East,Mumbai,1020,11372,116
 2,Man OpusMira Road East,Mira Road East,Mumbai,1070,8878,95
 2,Man OpusMira Road East,Mira Road East,Mumbai,1020,9411,96
 1,Man OpusMira Road East,Mira Road East,Mumbai,680,9558,65
@@ -870,10 +870,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 2,NA,Thakurli,Mumbai,965,6787,65.5
 1,Shree Vinayak Vyom Complex A B C D WingDombivali,Dombivali,Mumbai,630,5396,34
-2,Gurukrupa Marina Enclave Wings M N Phase IIMalad West,Malad West,Mumbai,900,17777,1.6
+2,Gurukrupa Marina Enclave Wings M N Phase IIMalad West,Malad West,Mumbai,900,17777,160
 2,NA,Kandivali East,Mumbai,719,26008,187
 1,Neeta Gulraj HeightsKurla,Kurla,Mumbai,780,12051,94
-3,NA,Santacruz West,Mumbai,1400,44642,6.25
+3,NA,Santacruz West,Mumbai,1400,44642,625
 1,NA,Masjid Bandar,Mumbai,410,17073,69.99
 2,GHP Woodland HeightsPowai,Powai,Mumbai,1050,16190,170
 1,NA,Beturkar Pada,Mumbai,500,4090,20.45
@@ -883,7 +883,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Dombivli (West),Mumbai,712,6000,42.72
 2,Wadhwa SolitaireThane West,Thane West,Mumbai,665,10827,72
 2,NA,Ghatkopar West,Mumbai,1000,13500,135
-3,Platinum The SpringsKalamboli,Kalamboli,Mumbai,1975,7493,1.48
+3,Platinum The SpringsKalamboli,Kalamboli,Mumbai,1975,7493,148
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
@@ -1008,7 +1008,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1600,1250,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1600,1250,20
 2,Space New Vrindavan SpacesAndheri East,Andheri East,Mumbai,650,26923,175
-3,Rustomjee Adarsh RegencyMalad East,Malad East,Mumbai,1300,22692,2.95
+3,Rustomjee Adarsh RegencyMalad East,Malad East,Mumbai,1300,22692,295
 1,NA,Diva Gaon,Mumbai,350,2800,9.8
 3,NA,Thane West,Mumbai,1350,7407,100
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1600,1250,20
@@ -1020,7 +1020,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Neeta Gulraj HeightsKurla,Kurla,Mumbai,780,12051,94
-3,NA,Santacruz West,Mumbai,1400,44642,6.25
+3,NA,Santacruz West,Mumbai,1400,44642,625
 1,NA,Masjid Bandar,Mumbai,410,17073,69.99
 2,GHP Woodland HeightsPowai,Powai,Mumbai,1050,16190,170
 1,NA,Beturkar Pada,Mumbai,500,4090,20.45
@@ -1030,7 +1030,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Dombivli (West),Mumbai,712,6000,42.72
 2,Wadhwa SolitaireThane West,Thane West,Mumbai,665,10827,72
 2,NA,Ghatkopar West,Mumbai,1000,13500,135
-3,Platinum The SpringsKalamboli,Kalamboli,Mumbai,1975,7493,1.48
+3,Platinum The SpringsKalamboli,Kalamboli,Mumbai,1975,7493,148
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
@@ -1066,7 +1066,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
-2,Gurukrupa Primus ResidencesSantacruz East,Santacruz East,Mumbai,1150,22695,2.61
+2,Gurukrupa Primus ResidencesSantacruz East,Santacruz East,Mumbai,1150,22695,261
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,NA,Ambernath East,Mumbai,593,4143,24.57
@@ -1088,7 +1088,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,650,3076,20
-3,NA,Dadar East,Mumbai,1600,36875,5.9
+3,NA,Dadar East,Mumbai,1600,36875,590
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,650,3076,20
 2,Fine Fountain PlazaDombivali,Dombivali,Mumbai,800,4687,37.5
@@ -1119,7 +1119,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
-4,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,2016,38194,7.7
+4,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,2016,38194,770
 3,Bhumiraj HermitageSanpada,Sanpada,Mumbai,1500,20000,300
 2,NA,Andheri East,Mumbai,950,18947,180
 2,NA,Ghatkopar East,Mumbai,580,22413,130
@@ -1160,7 +1160,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
-2,Gurukrupa Primus ResidencesSantacruz East,Santacruz East,Mumbai,1150,22695,2.61
+2,Gurukrupa Primus ResidencesSantacruz East,Santacruz East,Mumbai,1150,22695,261
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,NA,Ambernath East,Mumbai,593,4143,24.57
@@ -1176,7 +1176,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
-1,Pioneer Heritage Residency 2Santacruz West,Santacruz West,Mumbai,560,28571,1.6
+1,Pioneer Heritage Residency 2Santacruz West,Santacruz West,Mumbai,560,28571,160
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
@@ -1190,10 +1190,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Belapur,Mumbai,720,12500,90
 2,Piramal Aranya Arav TowerByculla,Byculla,Mumbai,1400,35714,500
 4,Kalpataru SolitaireJuhu,Juhu,Mumbai,2400,79166,1900
-3,Reputed Builder Tycoon SapphireKalyan West,Kalyan West,Mumbai,1368,8040,1.1
-1,MDM ZionAndheri West,Andheri West,Mumbai,540,23703,1.28
+3,Reputed Builder Tycoon SapphireKalyan West,Kalyan West,Mumbai,1368,8040,110
+1,MDM ZionAndheri West,Andheri West,Mumbai,540,23703,128
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,650,3076,20
-3,NA,Dadar East,Mumbai,1600,36875,5.9
+3,NA,Dadar East,Mumbai,1600,36875,590
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,650,3076,20
 2,Fine Fountain PlazaDombivali,Dombivali,Mumbai,800,4687,37.5
@@ -1221,12 +1221,12 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 2,Crescent LandmarkAndheri East,Andheri East,Mumbai,421,21852,92
 2,NA,New Balaji Nagar,Mumbai,775,3483,27
-1,Reputed Builder 1 Row HouseKandivali East,Kandivali East,Mumbai,1111,10001,1.11
+1,Reputed Builder 1 Row HouseKandivali East,Kandivali East,Mumbai,1111,10001,111
 1,Shree Umiya Varsha PalmDombivali,Dombivali,Mumbai,675,7111,48
 1,Arihant AnshulaTaloja,Taloja,Mumbai,600,3833,23
 2,Arihant AnshulaTaloja,Taloja,Mumbai,850,3952,33.6
 1,NA,Dahisar East,Mumbai,230,15652,36
-1,NA,Bandra East,Mumbai,405,34814,1.41
+1,NA,Bandra East,Mumbai,405,34814,141
 1,NA,Kalyan West,Mumbai,760,5263,40
 1,NA,Santosh Nagar,Mumbai,415,3253,13.5
 2,NA,Colaba,Mumbai,1000,25000,250
@@ -1236,7 +1236,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Andheri East,Mumbai,225,19111,43
 2,Lodha WoodsKandivali East,Kandivali East,Mumbai,900,21666,195
 1,Sunrise Mahek MillenniaDombivali,Dombivali,Mumbai,550,9454,52
-3,NA,Kandivali West,Mumbai,1650,19454,3.21
+3,NA,Kandivali West,Mumbai,1650,19454,321
 1,NA,Naigaon West,Mumbai,650,4461,29
 1,NA,Goregaon East,Mumbai,12600,23809,3000
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
@@ -1290,15 +1290,15 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Dombivali East,Mumbai,858,6526,56
 1,Sunrise Spring DaleMalad West,Malad West,Mumbai,548,20985,115
 1,Reputed Builder Chatrapati Shivaji Raje ComplexKandivali West,Kandivali West,Mumbai,370,11621,43
-2,NA,Malad East,Mumbai,660,23939,1.58
-2,Reputed Builder Dhiraj ApartmentMulund West,Mulund West,Mumbai,660,24242,1.6
+2,NA,Malad East,Mumbai,660,23939,158
+2,Reputed Builder Dhiraj ApartmentMulund West,Mulund West,Mumbai,660,24242,160
 1,Reputed Builder Blue Ocean 2Kandivali West,Kandivali West,Mumbai,530,17924,95
 1,NA,Ulwe,Mumbai,600,5000,30
 1,NA,Ulwe,Mumbai,350,5714,20
 1,NA,Santacruz East,Mumbai,394,22842,90
 1,NA,Goregaon East,Mumbai,12600,23809,3000
 3,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1200,12500,150
-5,Hermitage ComplexMira Road East,Mira Road East,Mumbai,4200,10261,4.3
+5,Hermitage ComplexMira Road East,Mira Road East,Mumbai,4200,10261,430
 2,Rishabraj Nemi EleganceKandivali West,Kandivali West,Mumbai,771,22697,175
 2,Rishabraj Nemi EleganceKandivali West,Kandivali West,Mumbai,771,22697,175
 2,Rishabraj Nemi EleganceKandivali West,Kandivali West,Mumbai,771,22697,175
@@ -1346,13 +1346,13 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 1,NA,Karanjade,Mumbai,660,5000,33
-1,Reputed Builder 1 Row HouseKandivali East,Kandivali East,Mumbai,1111,10001,1.11
+1,Reputed Builder 1 Row HouseKandivali East,Kandivali East,Mumbai,1111,10001,111
 1,Shree Umiya Varsha PalmDombivali,Dombivali,Mumbai,675,7111,48
 1,Arihant AnshulaTaloja,Taloja,Mumbai,600,3833,23
 2,Arihant AnshulaTaloja,Taloja,Mumbai,850,3952,33.6
 1,NA,Kalyan West,Mumbai,760,5263,40
 1,NA,Santosh Nagar,Mumbai,415,3253,13.5
-3,NA,Kandivali West,Mumbai,1650,19454,3.21
+3,NA,Kandivali West,Mumbai,1650,19454,321
 2,NA,Colaba,Mumbai,1000,25000,250
 1,Reputed Builder Reliable RegencyNalasopara East,Nalasopara East,Mumbai,625,4480,28
 1,Royale OzonePanvel,Panvel,Mumbai,636,4245,27
@@ -1386,7 +1386,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,K W Rose GardenPanvel,Panvel,Mumbai,951,6098,58
 2,Raj NirvanaAmbernath East,Ambernath East,Mumbai,1380,3985,55
 2,Raj NirvanaAmbernath East,Ambernath East,Mumbai,995,3819,38
-3,NA,Kandivali West,Mumbai,1650,19454,3.21
+3,NA,Kandivali West,Mumbai,1650,19454,321
 1,Reputed Builder God Gift TowerBandra West,Bandra West,Mumbai,415,30120,125
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
@@ -1404,9 +1404,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Santacruz East,Mumbai,394,22842,90
 1,NA,Goregaon East,Mumbai,12600,23809,3000
 3,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1200,12500,150
-5,Hermitage ComplexMira Road East,Mira Road East,Mumbai,4200,10261,4.3
+5,Hermitage ComplexMira Road East,Mira Road East,Mumbai,4200,10261,430
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
-3,Progressive CottageKoper Khairane,Koper Khairane,Mumbai,1700,16470,2.8
+3,Progressive CottageKoper Khairane,Koper Khairane,Mumbai,1700,16470,280
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 2,Shiv ResidencyBadlapur East,Badlapur East,Mumbai,1150,5217,60
@@ -1423,7 +1423,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Parel,Mumbai,420,22619,95
 2,Reputed Builder ApartmentBorivali West,Borivali West,Mumbai,810,7901,64
 2,Arkade Bhoomi ArkadeKandivali East,Kandivali East,Mumbai,1100,20909,230
-1,Reputed Builder Vaastu ShubhAndheri East,Andheri East,Mumbai,650,18769,1.22
+1,Reputed Builder Vaastu ShubhAndheri East,Andheri East,Mumbai,650,18769,122
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
 1,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,651,3072,20
 5,Reputed Builder Wild Wood Park 2Andheri West,Andheri West,Mumbai,1601,1249,20
@@ -1574,7 +1574,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Mahadev Mahadev ComplexMira Road East,Mira Road East,Mumbai,630,9239,58.21
 1,Mahadev Mahadev ComplexMira Road East,Mira Road East,Mumbai,630,9841,62
 3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28813,340
-3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28389,3.35
+3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28389,335
 1,Rustomjee Virar Avenue L1 L2 And L4 Wing I And JVirar,Virar,Mumbai,650,5076,33
 3,Sheth Vasant leelaThane West,Thane West,Mumbai,1300,10000,130
 3,Lodha SterlingThane West,Thane West,Mumbai,1026,20961,215
@@ -1586,30 +1586,30 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Mahadev Mahadev ComplexMira Road East,Mira Road East,Mumbai,630,9841,62
 2,Reputed Builder PathikKandivali West,Kandivali West,Mumbai,850,13882,118
 3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28813,340
-3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28389,3.35
+3,Hiranandani Glen Gate BuildingsPowai,Powai,Mumbai,1180,28389,335
 3,Bhagwati Greens 3Kharghar,Kharghar,Mumbai,2000,17500,350
 3,Goodwill ParadiseKharghar,Kharghar,Mumbai,1750,10285,180
 1,NA,Bhandup West,Mumbai,565,13982,79
 2,NA,Kharghar,Mumbai,1206,7462,90
 3,Swaraj Homes Sai MannatKaranjade,Karanjade,Mumbai,2000,12500,250
 3,Swaraj Homes Sai MannatKaranjade,Karanjade,Mumbai,2000,12500,250
-2,NA,Bhandup West,Mumbai,800,13750,1.1
+2,NA,Bhandup West,Mumbai,800,13750,110
 2,NA,kasaradavali thane west,Mumbai,900,8111,73
 1,NA,kasaradavali thane west,Mumbai,914,10000,91.4
 3,Mayuresh Manohar VikasBadlapur West,Badlapur West,Mumbai,1350,4814,65
 1, Silicon ParkMalad West,Malad West,Mumbai,550,15090,83
 2,ACME AvenueKandivali West,Kandivali West,Mumbai,850,16117,137
 1,NA,Bhandup West,Mumbai,565,13982,79
-2,NA,Bhandup West,Mumbai,800,13750,1.1
+2,NA,Bhandup West,Mumbai,800,13750,110
 3,NA,Kharghar,Mumbai,1500,12666,190
 2,NA,Kharghar,Mumbai,1206,7462,90
 3,Swaraj Homes Sai MannatKaranjade,Karanjade,Mumbai,2000,12500,250
 3,Swaraj Homes Sai MannatKaranjade,Karanjade,Mumbai,2000,12500,250
-3,Hiranandani Rodas Enclave ClaytonThane West,Thane West,Mumbai,1650,19393,3.2
+3,Hiranandani Rodas Enclave ClaytonThane West,Thane West,Mumbai,1650,19393,320
 2,NA,Bandra West,Mumbai,1100,36363,400
-2,Lodha Amara Tower 26 27 28 30 34 35Thane West,Thane West,Mumbai,900,12888,1.16
+2,Lodha Amara Tower 26 27 28 30 34 35Thane West,Thane West,Mumbai,900,12888,116
 1,Lodha Amara Tower 26 27 28 30 34 35Thane West,Thane West,Mumbai,600,14666,88
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1450,15586,2.26
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1450,15586,226
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1170,15811,185
 3,Hiranandani AvalonPowai,Powai,Mumbai,1470,34013,500
 2,Concrete Sai SaakshaatKharghar,Kharghar,Mumbai,1225,12244,150
@@ -1617,41 +1617,41 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Amal AmbrosiaBorivali East,Borivali East,Mumbai,1500,24000,360
 2,Swaraj Homes Sonmarg ApartmentNapeansea Road,Napeansea Road,Mumbai,850,41176,350
 1,Reputed Builder Shankar SagarPeddar Road,Peddar Road,Mumbai,750,46666,350
-3,Sandu ShilpadattaChembur,Chembur,Mumbai,1005,27888,2.8
-3,Sandu ShilpadattaChembur,Chembur,Mumbai,1005,27888,2.8
+3,Sandu ShilpadattaChembur,Chembur,Mumbai,1005,27888,280
+3,Sandu ShilpadattaChembur,Chembur,Mumbai,1005,27888,280
 1,JSB Nakshatra AarambhNaigaon East,Naigaon East,Mumbai,750,4666,35
 2,Thakur Dham CHSLBS Marg,LBS Marg,Mumbai,1600,17187,275
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,11357,159
 3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,12637,252
 3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,12125,242
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,2.34
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,2.14
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,234
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,214
 1,NA,Dahisar West,Mumbai,550,11454,63
 1,Reputed Builder Gokuldham ComplexGoregaon East,Goregaon East,Mumbai,600,13166,79
 3,NA,Borivali West,Mumbai,1250,18000,225
-2,Dhanshree D N NagarAndheri West,Andheri West,Mumbai,1050,15333,1.61
+2,Dhanshree D N NagarAndheri West,Andheri West,Mumbai,1050,15333,161
 1,NA,Borivali West,Mumbai,600,16333,98
-2,DP Star TrilokBhandup West,Bhandup West,Mumbai,1294,8500,1.1
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,2.34
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,2.14
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,2.04
+2,DP Star TrilokBhandup West,Bhandup West,Mumbai,1294,8500,110
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,234
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,214
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,204
 3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10315,196
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,12500,175
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,11821,165
-2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,1.47
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,2.14
+2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,147
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,214
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,11357,159
-2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,1.47
-2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,1.47
-2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,1000,14600,1.46
+2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,147
+2,Reputed Builder Neptune Living Point Phase II Flying KiteBhandup West,Bhandup West,Mumbai,1085,13548,147
+2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,1000,14600,146
 1,NA,Hiranandani Estates,Mumbai,635,10708,68
 2,HDIL Premier ResidencesKurla,Kurla,Mumbai,920,11413,105
 2,Thakur Dham CHSLBS Marg,LBS Marg,Mumbai,1600,17187,275
 1,Raj AkshayMira Road East,Mira Road East,Mumbai,388,16299,63.24
 1,JSB Nakshatra AarambhNaigaon East,Naigaon East,Mumbai,750,4666,35
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,2.34
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,2.14
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,2.04
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,11700,234
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,11289,214
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,204
 3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10315,196
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,12500,175
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1400,11821,165
@@ -1660,22 +1660,22 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Sudhanshu Imperia Wing CBhandup West,Bhandup West,Mumbai,500,11000,55
 2, Jainam ElysiumBhandup West,Bhandup West,Mumbai,1000,19200,192
 2,Accel BelvedereBhandup West,Bhandup West,Mumbai,700,17857,125
-2,Kalpataru CrestBhandup West,Bhandup West,Mumbai,1000,19100,1.91
+2,Kalpataru CrestBhandup West,Bhandup West,Mumbai,1000,19100,191
 3,Reputed Builder Shubharambh TowerThane West,Thane West,Mumbai,1200,14000,168
 2,Kohinoor CityKurla,Kurla,Mumbai,1500,13333,200
 2, Jainam ElysiumBhandup West,Bhandup West,Mumbai,1000,19000,190
-2,Shraddha Autumn ParkKanjurmarg,Kanjurmarg,Mumbai,800,13875,1.11
+2,Shraddha Autumn ParkKanjurmarg,Kanjurmarg,Mumbai,800,13875,111
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1500,10600,159
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,2.04
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1900,10736,204
 2,NA,Vichumbe,Mumbai,950,4210,40
 3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1800,10888,196
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1600,10937,175
 2,Lokhandwala GalaxyAgripada,Agripada,Mumbai,1650,20606,340
 2,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,1600,10343,165
-2,Srishti OasisBhandup West,Bhandup West,Mumbai,1300,9307,1.21
+2,Srishti OasisBhandup West,Bhandup West,Mumbai,1300,9307,121
 1,Reputed Builder Dhanashree PrathamaDombivali,Dombivali,Mumbai,455,4503,20.49
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,480,4374,20.99
-1,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,1.52
+1,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,152
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,620,4032,24.99
 2,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,830,3975,33
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,650,3999,25.99
@@ -1691,7 +1691,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,157,46496,73
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,506,20750,105
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,323,23219,75
-2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,1.1
+2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,110
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,485,19587,95
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,349,22922,80
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,400,22000,88
@@ -1707,17 +1707,17 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,650,4000,26
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,400,4500,18
 2,Shree EmpireDombivali,Dombivali,Mumbai,930,6451,59.99
-2,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,1.52
+2,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,152
 1,NA,Dombivali East,Mumbai,690,4782,33
 2,NA,Dombivali East,Mumbai,770,4025,31
 1,NA,Dombivali East,Mumbai,340,4000,13.6
 2,Shree Balaji Om HarmonyKharghar,Kharghar,Mumbai,1205,11369,137
 2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,750,20000,150
 1,Piramal RevantaMulund West,Mulund West,Mumbai,800,16875,135
-2,Mayuresh Group ResidencyBhandup West,Bhandup West,Mumbai,850,13411,1.14
+2,Mayuresh Group ResidencyBhandup West,Bhandup West,Mumbai,850,13411,114
 2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,750,20000,150
-3,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1845,14092,2.6
-2,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1025,15609,1.6
+3,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1845,14092,260
+2,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1025,15609,160
 2,Sonam IndradhanushMira Road East,Mira Road East,Mumbai,968,8057,78
 1,Reputed Builder Dhanashree PrathamaDombivali,Dombivali,Mumbai,480,3958,19
 1,Shree Mangalmurti GalaxyDombivali,Dombivali,Mumbai,510,4000,20.4
@@ -1728,14 +1728,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,650,4000,26
 1,Dhanashree Devyani Galaxy B WingDombivali,Dombivali,Mumbai,400,4500,18
 2,Shree EmpireDombivali,Dombivali,Mumbai,930,6451,59.99
-2,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,1.52
+2,Aadi Allure Wings A To EKanjurmarg,Kanjurmarg,Mumbai,1022,14872,152
 1,NA,Dombivali East,Mumbai,690,4782,33
 2,NA,Dombivali East,Mumbai,770,4025,31
 1,NA,Dombivali East,Mumbai,340,4000,13.6
 2,Shree Balaji Om HarmonyKharghar,Kharghar,Mumbai,1205,11369,137
 2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,750,20000,150
 1,Piramal RevantaMulund West,Mulund West,Mumbai,800,16875,135
-2,Mayuresh Group ResidencyBhandup West,Bhandup West,Mumbai,850,13411,1.14
+2,Mayuresh Group ResidencyBhandup West,Bhandup West,Mumbai,850,13411,114
 2,DSS Mahavir UniverseBhandup West,Bhandup West,Mumbai,750,20000,150
 1,Morya Infraconstruct Sports City Phase 1Bhiwandi,Bhiwandi,Mumbai,800,4275,34.2
 2,Lodha Lodha Palava DowntownDombivali,Dombivali,Mumbai,820,9268,76
@@ -1758,17 +1758,17 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Thakur Vishnu Shivam TowerKandivali East,Kandivali East,Mumbai,1250,18800,235
 2,Reputed Builder Evershine Millenium Paradise Phase 1Kandivali East,Kandivali East,Mumbai,885,19774,175
 1,CCI Rivali Park WinterGreenBorivali East,Borivali East,Mumbai,625,18400,115
-2,Dosti Eastern BayWadala,Wadala,Mumbai,815,27361,2.23
+2,Dosti Eastern BayWadala,Wadala,Mumbai,815,27361,223
 1,NA,Ulwe,Mumbai,400,8000,32
 2,ACME AvenueKandivali West,Kandivali West,Mumbai,900,15000,135
 1,Mahada New TowerMalad West,Malad West,Mumbai,450,11444,51.5
 2,Srushti Sangam SiddhiChembur,Chembur,Mumbai,1000,12500,125
 2,5th Prasanna AuraChembur,Chembur,Mumbai,1200,14166,170
 1,NA,Ulwe,Mumbai,660,6060,40
-3,5th Prasanna AuraChembur,Chembur,Mumbai,2450,14081,3.45
+3,5th Prasanna AuraChembur,Chembur,Mumbai,2450,14081,345
 2,NA,Ulwe,Mumbai,1010,5940,60
 2,RRB Satra HarmonyChembur,Chembur,Mumbai,1000,12900,129
-4,5th Prasanna AuraChembur,Chembur,Mumbai,2300,18260,4.2
+4,5th Prasanna AuraChembur,Chembur,Mumbai,2300,18260,420
 1,Srushti Sangam SiddhiChembur,Chembur,Mumbai,800,12500,100
 1,NA,Rabale,Mumbai,650,9230,60
 1,Concrete Sai SwaroopChembur,Chembur,Mumbai,600,12500,75
@@ -1778,7 +1778,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Gharkul Developers Gravity Phase IBhandup East,Bhandup East,Mumbai,1000,12500,125
 2,Gharkul Developers Gravity Phase IBhandup East,Bhandup East,Mumbai,1000,12000,120
 1,Gharkul Developers Gravity Phase IBhandup East,Bhandup East,Mumbai,600,12000,72
-2,DP Star TriveniBhandup West,Bhandup West,Mumbai,1000,11000,1.1
+2,DP Star TriveniBhandup West,Bhandup West,Mumbai,1000,11000,110
 1,Shree Ramdev HeightsMira Road East,Mira Road East,Mumbai,730,8082,59
 1,Shree Ramdev HeightsMira Road East,Mira Road East,Mumbai,730,7945,58
 2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1000,9900,99
@@ -1788,7 +1788,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1300,11538,150
 2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1100,9545,105
 1,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,730,10000,73
-2,Dosti Eastern BayWadala,Wadala,Mumbai,815,27361,2.23
+2,Dosti Eastern BayWadala,Wadala,Mumbai,815,27361,223
 2,Kakad Paradise Phase 2Mira Road East,Mira Road East,Mumbai,980,8061,79
 1,JP North Phase 6 AlexaMira Road East,Mira Road East,Mumbai,738,9146,67.5
 3,JP Codename Dream Home Tower BMira Road East,Mira Road East,Mumbai,1120,10535,118
@@ -1796,32 +1796,32 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,JP Codename Dream Home Tower BMira Road East,Mira Road East,Mumbai,1010,9306,94
 1,Sanghvi Sanghvi EmpireMira Road East,Mira Road East,Mumbai,795,8176,65
 3,Space Ashley TowerMira Road East,Mira Road East,Mumbai,1300,10769,140
-2,RNA NG EclatAndheri West,Andheri West,Mumbai,975,30256,2.95
+2,RNA NG EclatAndheri West,Andheri West,Mumbai,975,30256,295
 2,Gala Pride ParkThane West,Thane West,Mumbai,1100,10909,120
 3,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,1700,33823,575
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,17990,154
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,868,17511,1.52
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,868,17511,152
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,869,17261,150
-5,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,3000,17666,5.3
-4,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,19100,3.82
-3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,13050,2.61
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,18925,1.62
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,18691,1.6
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,16000,1.28
+5,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,3000,17666,530
+4,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,19100,382
+3,Ariisto Bellanza Phase 1 Wing A B C At The Prestige CityMulund West,Mulund West,Mumbai,2000,13050,261
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,18925,162
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,18691,160
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,16000,128
 2,Reputed Builder Sea LordCuffe Parade,Cuffe Parade,Mumbai,1200,47916,575
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14250,1.14
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14500,1.16
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14250,114
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14500,116
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
-2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,9400,1.88
-3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,15500,3.1
+2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,9400,188
+3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,15500,310
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14750,118
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,400,15000,60
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1700,10588,180
 2,Gharkul Developers Gravity Phase IBhandup East,Bhandup East,Mumbai,1000,12000,120
 1,Gharkul Developers Gravity Phase IBhandup East,Bhandup East,Mumbai,600,12000,72
-2,DP Star TriveniBhandup West,Bhandup West,Mumbai,1000,11000,1.1
+2,DP Star TriveniBhandup West,Bhandup West,Mumbai,1000,11000,110
 1,Concrete Sai SwaroopChembur,Chembur,Mumbai,600,12500,75
 2,RRB Satra HarmonyChembur,Chembur,Mumbai,1000,12900,129
 1,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,800,8750,70
@@ -1840,22 +1840,22 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,360,23333,84
 3,JP North BarcelonaMira Road East,Mira Road East,Mumbai,640,22656,145
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,15875,127
-2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,1.6
+2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,160
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13583,163
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13583,163
-3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,13300,2.66
+3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,13300,266
 1,NA,Chembur,Mumbai,870,10344,90
-3,NA,Chembur,Mumbai,2000,17250,3.45
+3,NA,Chembur,Mumbai,2000,17250,345
 1,NA,Badlapur East,Mumbai,375,5066,19
-3,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1845,14092,2.6
-2,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1025,15609,1.6
+3,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1845,14092,260
+2,Sonam Indra NeelBhayandar East,Bhayandar East,Mumbai,1025,15609,160
 2,Sonam IndradhanushMira Road East,Mira Road East,Mumbai,968,8057,78
-2,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,18518,1.11
+2,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,18518,111
 1,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,13000,78
 1,DP Star TriveniBhandup West,Bhandup West,Mumbai,600,11833,71
-2,DP Star TriveniBhandup West,Bhandup West,Mumbai,800,13750,1.1
+2,DP Star TriveniBhandup West,Bhandup West,Mumbai,800,13750,110
 1,Marathon Neopark Ashoka Wing ABhandup West,Bhandup West,Mumbai,200,13000,26
-2,Dynamix AvanyaDahisar,Dahisar,Mumbai,990,10202,1.01
+2,Dynamix AvanyaDahisar,Dahisar,Mumbai,990,10202,101
 2,NA,Malad West,Mumbai,800,16875,135
 1,NA,Malad West,Mumbai,620,14435,89.5
 1,Shubh Seven Square AvenueBhayandar East,Bhayandar East,Mumbai,725,8622,62.51
@@ -1867,7 +1867,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,157,46496,73
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,506,20750,105
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,323,23219,75
-2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,1.1
+2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,110
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,485,19587,95
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,349,22922,80
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,400,22000,88
@@ -1882,49 +1882,49 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,800,8750,70
 3,Supreme Arbuda Darshan Chs LtdSantacruz East,Santacruz East,Mumbai,1000,30000,300
 1,K Raheja HeightsMalad East,Malad East,Mumbai,690,20289,140
-2,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,18518,1.11
+2,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,18518,111
 1,UVK Sai AkshiBhandup West,Bhandup West,Mumbai,600,13000,78
 1,DP Star TriveniBhandup West,Bhandup West,Mumbai,600,11833,71
-2,DP Star TriveniBhandup West,Bhandup West,Mumbai,800,13750,1.1
+2,DP Star TriveniBhandup West,Bhandup West,Mumbai,800,13750,110
 1,Marathon Neopark Ashoka Wing ABhandup West,Bhandup West,Mumbai,200,13000,26
-2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1000,15300,1.53
+2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1000,15300,153
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,15875,127
-2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,1.6
+2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,160
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13583,163
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13583,163
-3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,13300,2.66
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,16000,1.28
+3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,13300,266
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,16000,128
 2,Reputed Builder Sea LordCuffe Parade,Cuffe Parade,Mumbai,1200,47916,575
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14250,1.14
-1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14500,1.16
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14250,114
+1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14500,116
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,8500,170
-3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,15500,3.1
+3,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,2000,15500,310
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,14750,118
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,400,15000,60
 2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1700,10588,180
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,400,16250,65
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,15000,120
 3,NA,Jogeshwari West,Mumbai,1700,29411,500
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,850,18588,1.58
-2,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,1361,30492,4.15
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,850,18588,158
+2,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,1361,30492,415
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,877,17787,156
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,856,17990,154
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,868,17511,1.52
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,868,17511,152
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,869,17261,150
 2,Reputed Builder Roshni ApartmentKalyan East,Kalyan East,Mumbai,1040,24038,250
-2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,1.6
+2,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,1200,13333,160
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,15875,127
 1,Piramal Revanta Tower 1Mulund West,Mulund West,Mumbai,800,15875,127
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,850,17647,150
-3,Gurukrupa Marina Enclave M N Phase llMalad West,Malad West,Mumbai,1050,19523,2.05
+3,Gurukrupa Marina Enclave M N Phase llMalad West,Malad West,Mumbai,1050,19523,205
 2,Puraniks City Phase 3Thane West,Thane West,Mumbai,740,11351,84
 1,Hiranandani LaviniaThane West,Thane West,Mumbai,650,13846,90
 1,Hiranandani The WalkThane West,Thane West,Mumbai,650,13538,88
 1,Madhav Palacia Phase IIThane West,Thane West,Mumbai,650,10769,70
 2,Dynamix ParkwoodsThane West,Thane West,Mumbai,850,12352,105
-3,Dynamix ParkwoodsThane West,Thane West,Mumbai,1350,11629,1.57
+3,Dynamix ParkwoodsThane West,Thane West,Mumbai,1350,11629,157
 2,Lodha SplendoraThane West,Thane West,Mumbai,1200,7416,89
 1,Lodha Amara Tower 26 27 28 30 34 35Thane West,Thane West,Mumbai,555,11711,65
 2,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1050,9047,95
@@ -1947,7 +1947,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Agripada,Mumbai,1120,22321,250
 2,L K Umang HeightsAndheri West,Andheri West,Mumbai,1250,16640,208
 3,Space Ashley TowerMira Road East,Mira Road East,Mumbai,1300,10769,140
-2,RNA NG EclatAndheri West,Andheri West,Mumbai,975,30256,2.95
+2,RNA NG EclatAndheri West,Andheri West,Mumbai,975,30256,295
 2,Gala Pride ParkThane West,Thane West,Mumbai,1100,10909,120
 3,Reputed Builder Adani Western HeightsAndheri West,Andheri West,Mumbai,1700,33823,575
 2,Darvesh Darvesh HorizonMira Road East,Mira Road East,Mumbai,955,11247,107
@@ -1983,7 +1983,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,MICL Aradhya D And E TowerBhayandar East,Bhayandar East,Mumbai,740,9324,69
 1,MICL Aradhya D And E TowerBhayandar East,Bhayandar East,Mumbai,740,9189,68
 2,Kabra Aurum Wing A B C AND D of Unnat Nagar IIGoregaon West,Goregaon West,Mumbai,1000,24000,240
-4,Thakur Vishnu Shivam TowerKandivali East,Kandivali East,Mumbai,2500,21200,5.3
+4,Thakur Vishnu Shivam TowerKandivali East,Kandivali East,Mumbai,2500,21200,530
 2,Reputed Builder Evershine Millenium Paradise Phase 1Kandivali East,Kandivali East,Mumbai,885,19774,175
 1,CCI Rivali Park WinterGreenBorivali East,Borivali East,Mumbai,625,18400,115
 1,Raj AkshayMira Road East,Mira Road East,Mumbai,675,9629,65
@@ -2004,7 +2004,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Royal OasisMalad West,Malad West,Mumbai,750,22000,165
 2,Royal OasisMalad West,Malad West,Mumbai,700,22142,155
 2,Dosti ViharThane West,Thane West,Mumbai,1018,13948,142
-1,Royal OasisMalad West,Malad West,Mumbai,650,15692,1.02
+1,Royal OasisMalad West,Malad West,Mumbai,650,15692,102
 1,Royal OasisMalad West,Malad West,Mumbai,600,16333,98
 2,Usha Eindra ResidencyKarjat,Karjat,Mumbai,980,2704,26.5
 2, Radhe Krishna HeightsKarjat,Karjat,Mumbai,950,2789,26.5
@@ -2021,7 +2021,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Usha Eindra ResidencyKarjat,Karjat,Mumbai,400,3250,13
 2,Royal OasisMalad West,Malad West,Mumbai,700,22142,155
 2,Dosti ViharThane West,Thane West,Mumbai,1018,13948,142
-1,Royal OasisMalad West,Malad West,Mumbai,650,15692,1.02
+1,Royal OasisMalad West,Malad West,Mumbai,650,15692,102
 1,Royal OasisMalad West,Malad West,Mumbai,600,16333,98
 2,Hubtown GreenwoodsThane West,Thane West,Mumbai,740,12432,92
 2,Royal OasisMalad West,Malad West,Mumbai,750,22000,165
@@ -2086,7 +2086,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,157,46496,73
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,506,20750,105
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,323,23219,75
-2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,1.1
+2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,527,20872,110
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,368,23641,87
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,417,21342,89
 2,JP North BarcelonaMira Road East,Mira Road East,Mumbai,485,19587,95
@@ -2096,9 +2096,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,365,23561,86
 1,Parth Shri Sai Lata Flat Owners CHSLChembur,Chembur,Mumbai,488,24590,119
 2,Varad Varad HeightsChembur,Chembur,Mumbai,716,24000,171
-1,Parth Shri Sai Lata Flat Owners CHSLChembur,Chembur,Mumbai,464,24569,1.14
+1,Parth Shri Sai Lata Flat Owners CHSLChembur,Chembur,Mumbai,464,24569,114
 2,Varad Varad HeightsChembur,Chembur,Mumbai,700,24000,168
-1,Varad Varad HeightsChembur,Chembur,Mumbai,479,24000,1.14
+1,Varad Varad HeightsChembur,Chembur,Mumbai,479,24000,114
 1,Mahada New TowerMalad West,Malad West,Mumbai,250,11640,29.1
 1,Mahada New TowerMalad West,Malad West,Mumbai,400,13750,55
 2,Juhi Niharika AbsoluteKharghar,Kharghar,Mumbai,735,13332,97.99
@@ -2117,11 +2117,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,NA,Kharghar,Mumbai,1665,8408,140
 2,Ambika Ambika HeritageKharghar,Kharghar,Mumbai,1175,11659,137
 2,Goodwill ParadiseKharghar,Kharghar,Mumbai,1150,10869,125
-2,NA,Kharghar,Mumbai,1200,9166,1.1
+2,NA,Kharghar,Mumbai,1200,9166,110
 3,Reputed Builder Kasturi HeightsKharghar,Kharghar,Mumbai,1550,11612,180
 2,Goodwill ParadiseKharghar,Kharghar,Mumbai,1750,10000,175
 2,Arihant KrupaKharghar,Kharghar,Mumbai,1100,9545,105
-2,Proviso GalaxyKharghar,Kharghar,Mumbai,1150,9391,1.08
+2,Proviso GalaxyKharghar,Kharghar,Mumbai,1150,9391,108
 3,NA,Kharghar,Mumbai,1650,10909,180
 3,NA,Kharghar,Mumbai,1630,12208,199
 3,Shah HeightsKharghar,Kharghar,Mumbai,1675,10746,180
@@ -2149,10 +2149,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1043,11806,123
 3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,768,11812,90.6
 3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,768,11812,90.6
-3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1034,11810,1.22
-3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1034,11810,1.22
-3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1126,11822,1.33
-3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1126,11822,1.33
+3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1034,11810,122
+3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1034,11810,122
+3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1126,11822,133
+3,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,1126,11822,133
 1,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,415,11204,46.5
 1,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,415,11204,46.5
 2,Paradise Sai World Dreams Phase 1Dombivali,Dombivali,Mumbai,666,11219,74.61
@@ -2164,21 +2164,21 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Evershine Amavi 303 Phase 1Virar,Virar,Mumbai,473,7609,35.99
 1,Evershine Amavi 303 Phase 1Virar,Virar,Mumbai,473,7609,35.99
 2,Evershine Amavi 303 Phase 1Virar,Virar,Mumbai,617,7942,49
-3,Reputed Builder KalpatruMira Road East,Mira Road East,Mumbai,1235,10364,1.28
-2,Godrej Horizon Phase IWadala,Wadala,Mumbai,689,35268,2.43
-3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1046,36998,3.87
-2,Godrej Horizon Phase IWadala,Wadala,Mumbai,735,37142,2.73
+3,Reputed Builder KalpatruMira Road East,Mira Road East,Mumbai,1235,10364,128
+2,Godrej Horizon Phase IWadala,Wadala,Mumbai,689,35268,243
+3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1046,36998,387
+2,Godrej Horizon Phase IWadala,Wadala,Mumbai,735,37142,273
 2,Godrej Horizon Phase IWadala,Wadala,Mumbai,739,39242,290
-3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1063,40733,4.33
-3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1232,36363,4.48
+3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1063,40733,433
+3,Godrej Horizon Phase IWadala,Wadala,Mumbai,1232,36363,448
 3,NA,Koper Khairane,Mumbai,1000,13500,135
 2,Neelkanth SunberryGhansoli,Ghansoli,Mumbai,1300,12692,165
 3,Neelkanth SunberryGhansoli,Ghansoli,Mumbai,1550,13870,215
 1,Vihan Sunshine HeightsGhansoli,Ghansoli,Mumbai,650,12307,80
 1,Raikar Mangal ApartmentGhansoli,Ghansoli,Mumbai,715,10489,75
 4,NA,Koper Khairane,Mumbai,3500,6571,230
-4,Satyam Imperial HeightsGhansoli,Ghansoli,Mumbai,3605,14563,5.25
-2,Gee Cee Cloud 36 Phase IGhansoli,Ghansoli,Mumbai,1300,15769,2.05
+4,Satyam Imperial HeightsGhansoli,Ghansoli,Mumbai,3605,14563,525
+2,Gee Cee Cloud 36 Phase IGhansoli,Ghansoli,Mumbai,1300,15769,205
 3,Haware SplendorKharghar,Kharghar,Mumbai,1350,10370,140
 3,Mahaavir PrideDombivali,Dombivali,Mumbai,917,10359,95
 3,Mahaavir PrideDombivali,Dombivali,Mumbai,917,10359,95
@@ -2216,8 +2216,8 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,JP JP North Phase 5 EuphoriaMira Road East,Mira Road East,Mumbai,1080,8333,90
 1,PNK Imperial HeightsMira Road East,Mira Road East,Mumbai,740,7162,53
 1,JP North BarcelonaMira Road East,Mira Road East,Mumbai,750,10133,76
-3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11222,1.51
-3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,1.51
+3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11222,151
+3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,151
 2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1010,10396,105
 3,Siddha Sky Phase 1Sion,Sion,Mumbai,800,24375,195
 2,Siddha Sky Phase 1Sion,Sion,Mumbai,600,24166,145
@@ -2233,18 +2233,18 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,PNK Space Tiara Hills Phase I Bldg No 3 5 And 2Mira Road East,Mira Road East,Mumbai,750,7866,59
 2,JP JP North Phase 5 EuphoriaMira Road East,Mira Road East,Mumbai,1080,8333,90
 1,PNK Imperial HeightsMira Road East,Mira Road East,Mumbai,740,7162,53
-3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11222,1.51
-3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,1.51
+3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11222,151
+3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,151
 2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1010,10396,105
-2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,995,10150,1.01
+2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,995,10150,101
 1,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,710,10422,74
 1,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,690,10434,72
-3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,1.51
+3,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1350,11185,151
 2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,1010,10396,105
-2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,995,10150,1.01
+2,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,995,10150,101
 1,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,710,10422,74
 1,Kalpataru Srishti NamaahMira Road East,Mira Road East,Mumbai,690,10434,72
-2,JP North Barcelona Wing DMira Road East,Mira Road East,Mumbai,1010,12079,1.22
+2,JP North Barcelona Wing DMira Road East,Mira Road East,Mumbai,1010,12079,122
 1,JP North Phase 6 AlexaMira Road East,Mira Road East,Mumbai,693,9235,64
 1,RNA NG N G Diamond Hill D Phase IIMira Road East,Mira Road East,Mumbai,710,8309,59
 1,RNA NG Ocean Pearl Phase IIMira Road East,Mira Road East,Mumbai,690,8260,57
@@ -2330,7 +2330,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Newa Garden IIAiroli,Airoli,Mumbai,1200,10833,130
 2,Reputed Builder Alankar CHSAiroli,Airoli,Mumbai,1050,11904,125
 1,NA,Dighe,Mumbai,750,11733,88
-2,Gajra Bhoomi ColossaAiroli,Airoli,Mumbai,1250,12240,1.53
+2,Gajra Bhoomi ColossaAiroli,Airoli,Mumbai,1250,12240,153
 1,Reputed Builder Barkha ApartmentAiroli,Airoli,Mumbai,600,10833,65
 1,Reputed Builder Barkha ApartmentAiroli,Airoli,Mumbai,600,10833,65
 2,Reputed Builder Mercury TowerAiroli,Airoli,Mumbai,1150,10869,125
@@ -2363,17 +2363,17 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Agarwal ParamountVirar,Virar,Mumbai,380,9892,37.58
 1,Agarwal ParamountVirar,Virar,Mumbai,398,9891,39.37
 1,Agarwal ParamountVirar,Virar,Mumbai,381,9892,37.69
-3,Lodha VistaLower Parel,Lower Parel,Mumbai,1470,50748,7.46
-2,Lodha VistaLower Parel,Lower Parel,Mumbai,737,50610,3.73
-3,Lodha VistaLower Parel,Lower Parel,Mumbai,1474,50610,7.46
-2,Lodha VistaLower Parel,Lower Parel,Mumbai,735,50748,3.73
+3,Lodha VistaLower Parel,Lower Parel,Mumbai,1470,50748,746
+2,Lodha VistaLower Parel,Lower Parel,Mumbai,737,50610,373
+3,Lodha VistaLower Parel,Lower Parel,Mumbai,1474,50610,745
+2,Lodha VistaLower Parel,Lower Parel,Mumbai,735,50748,373
 2,Lodha VistaLower Parel,Lower Parel,Mumbai,676,47189,319
 2,Roha Realty Roha VatikaKurla,Kurla,Mumbai,539,21892,118
-3,Lodha VistaLower Parel,Lower Parel,Mumbai,1352,47337,6.4
+3,Lodha VistaLower Parel,Lower Parel,Mumbai,1352,47337,640
 1,Roha Realty Roha VatikaKurla,Kurla,Mumbai,444,22297,99
-3,Lodha VistaLower Parel,Lower Parel,Mumbai,1385,46209,6.4
+3,Lodha VistaLower Parel,Lower Parel,Mumbai,1385,46209,640
 2,Roha Realty Roha VatikaKurla,Kurla,Mumbai,558,22043,123
-2,Roha Realty Roha VatikaKurla,Kurla,Mumbai,512,22265,1.14
+2,Roha Realty Roha VatikaKurla,Kurla,Mumbai,512,22265,114
 2,Lodha VistaLower Parel,Lower Parel,Mumbai,679,46980,319
 1,Roha Realty Roha VatikaKurla,Kurla,Mumbai,439,22323,98
 2,NA,Nilje Gaon,Mumbai,1503,6187,93
@@ -2395,24 +2395,24 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Koper Khairane,Mumbai,1000,9000,90
 1,NA,Dombivali East,Mumbai,648,6712,43.5
 1,NA,Koper Khairane,Mumbai,650,6923,45
-3,Dosti Mezzo 22Sion,Sion,Mumbai,967,33712,3.26
+3,Dosti Mezzo 22Sion,Sion,Mumbai,967,33712,326
 2,Dosti Mezzo 22Sion,Sion,Mumbai,639,33646,215
-3,Dosti Mezzo 22Sion,Sion,Mumbai,938,33688,3.16
+3,Dosti Mezzo 22Sion,Sion,Mumbai,938,33688,316
 2,Dosti Mezzo 22Sion,Sion,Mumbai,532,33646,179
 2,SD Codename Hello EpicSewri,Sewri,Mumbai,605,41322,250
-2,SD Codename Hello EpicSewri,Sewri,Mumbai,747,44712,3.34
-3,Dosti Mezzo 22Sion,Sion,Mumbai,958,33716,3.23
-2,SD Codename Hello EpicSewri,Sewri,Mumbai,781,43021,3.36
-2,Dosti Mezzo 22Sion,Sion,Mumbai,662,33685,2.23
+2,SD Codename Hello EpicSewri,Sewri,Mumbai,747,44712,334
+3,Dosti Mezzo 22Sion,Sion,Mumbai,958,33716,323
+2,SD Codename Hello EpicSewri,Sewri,Mumbai,781,43021,336
+2,Dosti Mezzo 22Sion,Sion,Mumbai,662,33685,223
 2,SD Codename Hello EpicSewri,Sewri,Mumbai,812,47906,389
-3,Dosti Mezzo 22Sion,Sion,Mumbai,1194,33668,4.02
+3,Dosti Mezzo 22Sion,Sion,Mumbai,1194,33668,402
 2,SD Codename Hello EpicSewri,Sewri,Mumbai,644,42236,272
 2,Dosti Mezzo 22Sion,Sion,Mumbai,602,33720,203
-2,SD Codename Hello EpicSewri,Sewri,Mumbai,611,43862,2.68
-2,Dosti Eastern Bay Phase 1Wadala,Wadala,Mumbai,673,26894,1.81
-3,Dosti Mezzo 22Sion,Sion,Mumbai,1334,33583,4.48
-2,SD Codename Hello EpicSewri,Sewri,Mumbai,821,47746,3.92
-3,Dosti Eastern Bay Phase 1Wadala,Wadala,Mumbai,965,27150,2.62
+2,SD Codename Hello EpicSewri,Sewri,Mumbai,611,43862,268
+2,Dosti Eastern Bay Phase 1Wadala,Wadala,Mumbai,673,26894,181
+3,Dosti Mezzo 22Sion,Sion,Mumbai,1334,33583,448
+2,SD Codename Hello EpicSewri,Sewri,Mumbai,821,47746,392
+3,Dosti Eastern Bay Phase 1Wadala,Wadala,Mumbai,965,27150,262
 2,Dosti Mezzo 22Sion,Sion,Mumbai,698,33667,235
 2,NA,Dombivali East,Mumbai,715,3776,27
 1,NA,Dombivali East,Mumbai,495,3797,18.8
@@ -2446,7 +2446,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Dombivali East,Mumbai,510,4117,21
 1,NA,Dombivli (West),Mumbai,320,6250,20
 3,NA,Bandra East,Mumbai,1300,34615,450
-2,JP Codename Dream Home Tower BMira Road East,Mira Road East,Mumbai,1155,9523,1.1
+2,JP Codename Dream Home Tower BMira Road East,Mira Road East,Mumbai,1155,9523,110
 2,JP Codename Dream Home Tower BMira Road East,Mira Road East,Mumbai,1155,9264,107
 1,Reputed Builder AnantaMira Road East,Mira Road East,Mumbai,604,3825,23.1
 3,Reputed Builder AnantaMira Road East,Mira Road East,Mumbai,1086,3824,41.53
@@ -2466,7 +2466,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Lodha Majiwada Tower 1Thane West,Thane West,Mumbai,455,18681,85
 1,NA,Thakurli,Mumbai,600,7333,44
 1,NA,Kalwa,Mumbai,700,11142,78
-2,NA,Kalwa,Mumbai,1100,11636,1.28
+2,NA,Kalwa,Mumbai,1100,11636,128
 2,NA,Kalwa,Mumbai,945,8994,85
 1,NA,Kalwa,Mumbai,675,10222,69
 2,NA,Kalwa,Mumbai,950,10105,96
@@ -2474,31 +2474,31 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,NA,Goregaon East,Mumbai,1287,29448,379
 1,NA,Goregaon East,Mumbai,575,15652,90
 5,Goyal Lakshchandi HeightsGoregaon East,Goregaon East,Mumbai,2600,23076,600
-2,Velentine Apartment 1 Wing DMalad East,Malad East,Mumbai,1050,14000,1.47
+2,Velentine Apartment 1 Wing DMalad East,Malad East,Mumbai,1050,14000,147
 1,Velentine Apartment 1 Wing DMalad East,Malad East,Mumbai,600,16166,97
 3,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1100,21818,240
-2,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1000,20500,2.05
+2,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1000,20500,205
 3,Reputed Builder RaghavMalad East,Malad East,Mumbai,1200,20416,245
 3,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1100,21818,240
-2,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1000,20500,2.05
+2,Jyoti SukritiGoregaon East,Goregaon East,Mumbai,1000,20500,205
 3,Reputed Builder RaghavMalad East,Malad East,Mumbai,1200,20416,245
 2,Sheth Vasant ValleyMalad East,Malad East,Mumbai,1000,18000,180
-3,Dynamix AstrumMalad East,Malad East,Mumbai,1900,16842,3.2
+3,Dynamix AstrumMalad East,Malad East,Mumbai,1900,16842,320
 2,Dynamix AstrumMalad East,Malad East,Mumbai,1050,18952,199
 2,Prima Upper East 97Malad East,Malad East,Mumbai,1050,20952,220
 2,JP DecksMalad East,Malad East,Mumbai,1050,18095,190
-3,JP DecksMalad East,Malad East,Mumbai,2200,19090,4.2
-2,Lakshachandi HeightsGoregaon East,Goregaon East,Mumbai,1050,20000,2.1
+3,JP DecksMalad East,Malad East,Mumbai,2200,19090,420
+2,Lakshachandi HeightsGoregaon East,Goregaon East,Mumbai,1050,20000,210
 3,Prima Upper East 97Malad East,Malad East,Mumbai,1800,16666,300
 2,K Raheja Raheja ResidencyMalad East,Malad East,Mumbai,1000,19000,190
-3,Lakshachandi HeightsGoregaon East,Goregaon East,Mumbai,1700,18235,3.1
+3,Lakshachandi HeightsGoregaon East,Goregaon East,Mumbai,1700,18235,310
 2,Sheth Vasant Valley Ivy TowerMalad East,Malad East,Mumbai,1050,22380,235
 4,Sheth Vasant Valley Ivy TowerMalad East,Malad East,Mumbai,2000,22500,450
 1,Puraniks Puraniks City Phase 1Thane West,Thane West,Mumbai,600,9166,55
-2,ACME OzoneThane West,Thane West,Mumbai,800,13750,1.1
+2,ACME OzoneThane West,Thane West,Mumbai,800,13750,110
 3,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,785,25350,199
 3,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,787,26556,209
-2,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,570,26491,1.51
+2,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,570,26491,151
 2,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,578,26989,156
 1,Sheth Auris Ilaria Tower BMalad West,Malad West,Mumbai,398,26381,105
 2,Mahaavir Exotique Phase 1Taloja,Taloja,Mumbai,577,11915,68.75
@@ -2520,12 +2520,12 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Kalwa,Mumbai,650,9230,60
 1,HDIL Dheeraj Savera 1Borivali East,Borivali East,Mumbai,415,14457,60
 2,Swaraj Homes Press Enclave Aarambh CHSSion,Sion,Mumbai,1445,9688,140
-2,JP DecksMalad East,Malad East,Mumbai,1290,16279,2.1
+2,JP DecksMalad East,Malad East,Mumbai,1290,16279,210
 2,DB WoodsGoregaon East,Goregaon East,Mumbai,1566,15964,250
 1,Dharti PressidioKandivali West,Kandivali West,Mumbai,550,14727,81
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,854,18501,1.58
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,854,18501,158
 2,Sheth Auris Serenity Tower 2Malad West,Malad West,Mumbai,1048,23664,248
-3,Sheth Auris Serenity Tower 1Malad West,Malad West,Mumbai,1596,23872,3.81
+3,Sheth Auris Serenity Tower 1Malad West,Malad West,Mumbai,1596,23872,381
 1,NA,Malad West,Mumbai,210,15000,31.5
 1,Reputed Builder Galaxy HeightsKandivali West,Kandivali West,Mumbai,450,11333,51
 2,Royal OasisMalad West,Malad West,Mumbai,900,16111,145
@@ -2540,7 +2540,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder New Mhada TowersAndheri West,Andheri West,Mumbai,350,14285,50
 1,Ruparel Optima Ph 1Kandivali West,Kandivali West,Mumbai,450,16444,74
 3,Adhiraj MainlandKharghar,Kharghar,Mumbai,1600,8125,130
-2,NA,Vikroli East,Mumbai,880,12500,1.1
+2,NA,Vikroli East,Mumbai,880,12500,110
 1,NA,Vikroli East,Mumbai,570,14561,83
 2,NA,Vikroli East,Mumbai,1120,15178,170
 1,Reputed Builder Sai DeepVikroli East,Vikroli East,Mumbai,405,22222,90
@@ -2552,12 +2552,12 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Kalwa,Mumbai,650,9230,60
 1,HDIL Dheeraj Savera 1Borivali East,Borivali East,Mumbai,415,14457,60
 2,Swaraj Homes Press Enclave Aarambh CHSSion,Sion,Mumbai,1445,9688,140
-2,JP DecksMalad East,Malad East,Mumbai,1290,16279,2.1
+2,JP DecksMalad East,Malad East,Mumbai,1290,16279,210
 2,DB WoodsGoregaon East,Goregaon East,Mumbai,1566,15964,250
 1,Dharti PressidioKandivali West,Kandivali West,Mumbai,550,14727,81
-2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,854,18501,1.58
+2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,854,18501,158
 2,Sheth Auris Serenity Tower 2Malad West,Malad West,Mumbai,1048,23664,248
-3,Sheth Auris Serenity Tower 1Malad West,Malad West,Mumbai,1596,23872,3.81
+3,Sheth Auris Serenity Tower 1Malad West,Malad West,Mumbai,1596,23872,381
 1,NA,Malad West,Mumbai,210,15000,31.5
 1,Reputed Builder Galaxy HeightsKandivali West,Kandivali West,Mumbai,450,11333,51
 2,Royal OasisMalad West,Malad West,Mumbai,900,16111,145
@@ -2574,13 +2574,13 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder New Mhada ColonyPowai,Powai,Mumbai,225,15555,35
 2, Silicon ParkMalad West,Malad West,Mumbai,900,22222,200
 2,Lodha WoodsKandivali East,Kandivali East,Mumbai,1051,18268,192
-3,Lodha WoodsKandivali East,Kandivali East,Mumbai,1550,15677,2.43
+3,Lodha WoodsKandivali East,Kandivali East,Mumbai,1550,15677,243
 1,Mahada New TowerMalad West,Malad West,Mumbai,420,12142,51
 1,NA,Vichumbe,Mumbai,600,5500,33
 2,NA,Vichumbe,Mumbai,898,5790,52
-2,Neminath AvenueAndheri West,Andheri West,Mumbai,1225,16816,2.06
+2,Neminath AvenueAndheri West,Andheri West,Mumbai,1225,16816,206
 1,NA,Kalwa,Mumbai,680,9558,65
-2,NA,Kalwa,Mumbai,1000,10200,1.02
+2,NA,Kalwa,Mumbai,1000,10200,102
 2,NA,Kalwa,Mumbai,910,9670,88
 2,NA,Kalwa,Mumbai,910,10769,98
 1,NA,Kalwa,Mumbai,800,8750,70
@@ -2591,14 +2591,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Kalwa,Mumbai,850,10823,92
 1,Poonam PallazoNala Sopara,Nala Sopara,Mumbai,550,4745,26.1
 1,NA,Kalwa,Mumbai,675,9629,65
-3,DB WoodsGoregaon East,Goregaon East,Mumbai,1995,22055,4.4
-4,DB WoodsGoregaon East,Goregaon East,Mumbai,2800,20714,5.8
+3,DB WoodsGoregaon East,Goregaon East,Mumbai,1995,22055,440
+4,DB WoodsGoregaon East,Goregaon East,Mumbai,2800,20714,580
 1,Raheja RidgewoodGoregaon East,Goregaon East,Mumbai,715,21678,155
 2,NA,Kalwa,Mumbai,1000,9100,91
-2,Shree Chamunda DamodarpriyaKharghar,Kharghar,Mumbai,595,19496,1.16
+2,Shree Chamunda DamodarpriyaKharghar,Kharghar,Mumbai,595,19496,116
 4,Kasturi RegiusKharghar,Kharghar,Mumbai,1271,19063,242
 3,Kasturi RegiusKharghar,Kharghar,Mumbai,860,18953,163
-2,Kasturi RegiusKharghar,Kharghar,Mumbai,635,19063,1.21
+2,Kasturi RegiusKharghar,Kharghar,Mumbai,635,19063,121
 2,Krishna Residences Phase 1Andheri East,Andheri East,Mumbai,980,22448,220
 2,Sri Garden Avenue KVirar,Virar,Mumbai,586,7686,45.03
 1,Sri Garden Avenue KVirar,Virar,Mumbai,445,7674,34.14
@@ -2617,7 +2617,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Agarwal SolitaireVirar,Virar,Mumbai,715,5524,39.5
 1,Agarwal SolitaireVirar,Virar,Mumbai,715,5454,39
 1,Agarwal SolitaireVirar,Virar,Mumbai,715,5384,38.5
-3,Group Rushi HeightsMalad East,Malad East,Mumbai,1390,18705,2.6
+3,Group Rushi HeightsMalad East,Malad East,Mumbai,1390,18705,260
 2,Shapoorji Pallonji Joyville Virar Phase 1Virar,Virar,Mumbai,1075,6511,70
 1,Shapoorji Pallonji Joyville Virar Phase 1Virar,Virar,Mumbai,745,6577,49
 1,Shapoorji Pallonji Joyville Virar Phase 1Virar,Virar,Mumbai,745,6510,48.5
@@ -2657,7 +2657,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Kandivali West,Mumbai,370,13513,50
 1,NA,Malad West,Mumbai,200,14500,29
 2,Abhigna Avirahi HeightsMalad West,Malad West,Mumbai,850,15882,135
-2,Abhigna Avirahi HeightsMalad West,Malad West,Mumbai,865,15953,1.38
+2,Abhigna Avirahi HeightsMalad West,Malad West,Mumbai,865,15953,138
 1,Reputed Builder Chatrapati Shivaji Raje ComplexKandivali West,Kandivali West,Mumbai,340,12941,44
 2,Gurukrupa Marina EnclaveMalad West,Malad West,Mumbai,890,18539,165
 1,Abhigna Avirahi HeightsMalad West,Malad West,Mumbai,650,14153,92
@@ -2667,42 +2667,42 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Mahada New TowerMalad West,Malad West,Mumbai,370,15675,58
 1,Reputed Builder LibraMalad West,Malad West,Mumbai,450,15555,70
 1,Abhigna Avirahi HeightsMalad West,Malad West,Mumbai,625,14240,89
-3,K Raheja HeightsMalad East,Malad East,Mumbai,1480,18918,2.8
+3,K Raheja HeightsMalad East,Malad East,Mumbai,1480,18918,280
 1,NA,Shahapur,Mumbai,780,3205,25
 1,Navkar City Phase 1 And 2Naigaon East,Naigaon East,Mumbai,610,5573,34
 2,Saptashree Green Acres IIThane West,Thane West,Mumbai,750,12266,92
-3,Hiranandani AvalonPowai,Powai,Mumbai,1440,37152,5.35
-3,Hiranandani Garden EldoraPowai,Powai,Mumbai,1440,29861,4.3
+3,Hiranandani AvalonPowai,Powai,Mumbai,1440,37152,535
+3,Hiranandani Garden EldoraPowai,Powai,Mumbai,1440,29861,430
 2,Mayfair The ViewVikhroli,Vikhroli,Mumbai,1020,13725,140
-2,Lodha FiorenzaGoregaon East,Goregaon East,Mumbai,1390,20143,2.8
+2,Lodha FiorenzaGoregaon East,Goregaon East,Mumbai,1390,20143,280
 2,Satellite Satellite TowerGoregaon East,Goregaon East,Mumbai,1400,17142,240
 2,Aurum Q Residences R1Ghansoli,Ghansoli,Mumbai,1200,13750,165
-2,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1350,15555,2.1
+2,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1350,15555,210
 2,NA,Kalwa,Mumbai,1100,11545,127
 1,Unicorn Unicorn Global ArenaNaigaon East,Naigaon East,Mumbai,560,4642,26
 1,Rashmi Star CityNaigaon East,Naigaon East,Mumbai,600,3833,23
 1,NA,Naigaon East,Mumbai,500,4000,20
 1,Maad Maad Yashwant Pride IINaigaon East,Naigaon East,Mumbai,540,4537,24.5
-3,Nahar 8 TowersPowai,Powai,Mumbai,1363,21863,2.98
+3,Nahar 8 TowersPowai,Powai,Mumbai,1363,21863,298
 3,Nahar Yarrow Yucca VincaPowai,Powai,Mumbai,1365,19413,265
 3,NA,Powai,Mumbai,1650,16666,275
-2,Red Stone Saifee ParkByculla,Byculla,Mumbai,1315,34980,4.6
+2,Red Stone Saifee ParkByculla,Byculla,Mumbai,1315,34980,460
 1,NA,Mazgaon,Mumbai,650,27692,180
 1,NA,Mazgaon,Mumbai,600,28333,170
-2,NA,Mumbai Central,Mumbai,870,43678,3.8
-3,Atul Wallace FortunaMazagaon,Mazagaon,Mumbai,1800,34333,6.18
+2,NA,Mumbai Central,Mumbai,870,43678,280
+3,Atul Wallace FortunaMazagaon,Mazagaon,Mumbai,1800,34333,618
 2,Reputed Builder Sterling TowerMazgaon,Mazgaon,Mumbai,920,40108,369
-2,NA,Agripada,Mumbai,975,37743,3.68
-2,Red Stone Saifee ParkByculla,Byculla,Mumbai,1650,26969,4.45
+2,NA,Agripada,Mumbai,975,37743,368
+2,Red Stone Saifee ParkByculla,Byculla,Mumbai,1650,26969,445
 4,NA,Mazgaon,Mumbai,2250,48888,1100
-3,NA,Agripada,Mumbai,1020,36274,3.7
+3,NA,Agripada,Mumbai,1020,36274,370
 4,Nathani HeightsAgripada,Agripada,Mumbai,3500,28885,10.11
 1,Reputed Builder Sarkar ResidencyByculla,Byculla,Mumbai,850,26470,225
 2,Rapid Maimoon TowerByculla,Byculla,Mumbai,720,32916,237
-3,Nathani HeightsAgripada,Agripada,Mumbai,1350,49629,6.7
-3,Prestige Jasdan ClassicByculla,Byculla,Mumbai,1743,32587,5.68
-2,Reputed Builder Jupiter TowerMazgaon,Mazgaon,Mumbai,800,47625,3.81
-3,Reputed Builder Sagar ClassicMadanpura,Madanpura,Mumbai,1650,28303,4.67
+3,Nathani HeightsAgripada,Agripada,Mumbai,1350,49629,670
+3,Prestige Jasdan ClassicByculla,Byculla,Mumbai,1743,32587,568
+2,Reputed Builder Jupiter TowerMazgaon,Mazgaon,Mumbai,800,47625,381
+3,Reputed Builder Sagar ClassicMadanpura,Madanpura,Mumbai,1650,28303,467
 2,One India TowerByculla,Byculla,Mumbai,945,20105,190
 1,Rubberwala Ameena HeightAgripada,Agripada,Mumbai,680,50000,340
 1,NA,Kalwa,Mumbai,620,9677,60
@@ -2721,14 +2721,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Sheth Auris Serenity Tower 2Malad West,Malad West,Mumbai,1500,30000,450
 4,Sheth Auris Serenity Tower 2Malad West,Malad West,Mumbai,2100,30952,650
 2,NA,Kalwa,Mumbai,1100,11545,127
-2,NA,Kalwa,Mumbai,985,10355,1.02
-2,K Raheja HeightsMalad East,Malad East,Mumbai,1167,17566,2.05
+2,NA,Kalwa,Mumbai,985,10355,102
+2,K Raheja HeightsMalad East,Malad East,Mumbai,1167,17566,205
 1,K Raheja HeightsMalad East,Malad East,Mumbai,695,20143,140
 2,Adhiraj MainlandKharghar,Kharghar,Mumbai,638,13949,89
 3,Adhiraj MainlandKharghar,Kharghar,Mumbai,1178,10950,129
-2,Adhiraj MainlandKharghar,Kharghar,Mumbai,769,15084,1.16
-3,Adhiraj MainlandKharghar,Kharghar,Mumbai,938,10950,1.02
-2,Kanakia LevelsMalad East,Malad East,Mumbai,1850,20000,3.7
+2,Adhiraj MainlandKharghar,Kharghar,Mumbai,769,15084,116
+3,Adhiraj MainlandKharghar,Kharghar,Mumbai,938,10950,102
+2,Kanakia LevelsMalad East,Malad East,Mumbai,1850,20000,370
 1,Risland Risland The IconThane West,Thane West,Mumbai,429,19114,82
 2,Risland Risland The IconThane West,Thane West,Mumbai,636,19496,124
 2,Risland Risland The IconThane West,Thane West,Mumbai,629,19554,123
@@ -2739,11 +2739,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Reputed Builder Laxmi Narayan ComplexKoper Khairane,Koper Khairane,Mumbai,1150,11739,135
 3,NA,Vashi,Mumbai,1500,15666,235
 3,National MilloniSeawoods,Seawoods,Mumbai,1680,14880,250
-3,Mistry 9PBR Tower C1Nerul,Nerul,Mumbai,2100,16428,3.45
+3,Mistry 9PBR Tower C1Nerul,Nerul,Mumbai,2100,16428,345
 2,Marathon Nexzone Acrux 1Panvel,Panvel,Mumbai,1080,7685,83
-2,Neelkanth AurisPanvel,Panvel,Mumbai,1260,8730,1.1
-2,NA,Seawoods,Mumbai,1303,14811,1.93
-3,Aurum Q Island R4 AND R5Ghansoli,Ghansoli,Mumbai,1850,14054,2.6
+2,Neelkanth AurisPanvel,Panvel,Mumbai,1260,8730,110
+2,NA,Seawoods,Mumbai,1303,14811,193
+3,Aurum Q Island R4 AND R5Ghansoli,Ghansoli,Mumbai,1850,14054,260
 2,Aurum Q Island R4 AND R5Ghansoli,Ghansoli,Mumbai,1300,12692,165
 2,Prince Alisha ParadiseKharghar,Kharghar,Mumbai,1080,8796,95
 1,Tanvi Eminence IMira Road East,Mira Road East,Mumbai,560,11607,65
@@ -2757,7 +2757,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Kalwa,Mumbai,910,10439,95
 3,Reputed Builder BoulevardGhatkopar West,Ghatkopar West,Mumbai,1281,28103,360
 2,Kalpataru AuraGhatkopar West,Ghatkopar West,Mumbai,1043,23010,240
-3,Reputed Builder BoulevardGhatkopar West,Ghatkopar West,Mumbai,1860,25322,4.71
+3,Reputed Builder BoulevardGhatkopar West,Ghatkopar West,Mumbai,1860,25322,471
 1,NA,Kalwa,Mumbai,575,10782,62
 2,NA,Kalwa,Mumbai,775,9677,75
 1,NA,Kalwa,Mumbai,600,10000,60
@@ -2775,9 +2775,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,K Raheja HeightsMalad East,Malad East,Mumbai,690,19565,135
 3,Reputed Builder Konark ApartmentsBhandup West,Bhandup West,Mumbai,1400,17857,250
 3,Kalpataru EstateJogeshwari East,Jogeshwari East,Mumbai,1244,24115,300
-3,NA,Bandra West,Mumbai,1300,40384,5.25
-3,Paradigm NivanKhar,Khar,Mumbai,1550,37741,5.85
-3,Shreeji SilvereneBandra West,Bandra West,Mumbai,1350,38888,5.25
+3,NA,Bandra West,Mumbai,1300,40384,525
+3,Paradigm NivanKhar,Khar,Mumbai,1550,37741,585
+3,Shreeji SilvereneBandra West,Bandra West,Mumbai,1350,38888,525
 3,Aditi Arc NestBandra West,Bandra West,Mumbai,1500,38333,575
 3,NA,Bandra West,Mumbai,1800,38888,700
 3,NA,Bandra West,Mumbai,1400,41071,575
@@ -2786,46 +2786,46 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,NA,Santacruz West,Mumbai,1500,36666,550
 3,NA,Khar West,Mumbai,1300,42307,550
 3,NA,Khar West,Mumbai,1500,46666,700
-3,Swaraj Homes Red GatesBandra West,Bandra West,Mumbai,1400,37500,5.25
-2,NA,Bandra West,Mumbai,900,42777,3.85
-3,PR Urvashi TerracesSantacruz West,Santacruz West,Mumbai,2000,41250,8.25
+3,Swaraj Homes Red GatesBandra West,Bandra West,Mumbai,1400,37500,525
+2,NA,Bandra West,Mumbai,900,42777,385
+3,PR Urvashi TerracesSantacruz West,Santacruz West,Mumbai,2000,41250,825
 2,NA,Bandra West,Mumbai,1040,40865,425
 2,NA,Bandra West,Mumbai,1000,45000,450
 2,NA,Bandra West,Mumbai,1000,32500,325
 2,Midcity NavsonnarbalaBandra West,Bandra West,Mumbai,1000,42500,425
 2,NA,Bandra West,Mumbai,950,36842,350
 2,Rizvi Hill PostBandra West,Bandra West,Mumbai,1000,32500,325
-2,NA,Bandra West,Mumbai,1000,38000,3.8
+2,NA,Bandra West,Mumbai,1000,38000,380
 2,NA,Bandra West,Mumbai,1200,41666,500
 2,NA,Bandra West,Mumbai,1000,45000,450
 2,NA,Bandra West,Mumbai,1100,40909,450
 2,NA,Bandra West,Mumbai,1000,40000,400
-2,NA,Bandra West,Mumbai,1000,47500,4.75
+2,NA,Bandra West,Mumbai,1000,47500,475
 2,NA,Khar West,Mumbai,950,30526,290
 3,NA,Bandra West,Mumbai,1250,44000,550
-2,NA,Bandra West,Mumbai,1000,46000,4.6
-3,NA,Bandra West,Mumbai,1350,35185,4.75
+2,NA,Bandra West,Mumbai,1000,46000,460
+3,NA,Bandra West,Mumbai,1350,35185,475
 1,NA,Kalwa,Mumbai,530,12264,65
 1,NA,Kalwa,Mumbai,445,12359,55
 1,NA,Kalwa,Mumbai,600,9000,54
-4,Sheth BeaumonteSion,Sion,Mumbai,1335,36929,4.93
-3,Sheth BeaumonteSion,Sion,Mumbai,1273,36999,4.7
-2,Sheth BeaumonteSion,Sion,Mumbai,938,36994,3.47
-3,NA,Chembur,Mumbai,1150,27826,3.2
+4,Sheth BeaumonteSion,Sion,Mumbai,1335,36929,493
+3,Sheth BeaumonteSion,Sion,Mumbai,1273,36999,470
+2,Sheth BeaumonteSion,Sion,Mumbai,938,36994,347
+3,NA,Chembur,Mumbai,1150,27826,320
 3,NA,Chembur,Mumbai,1050,28571,300
 3,NA,Chembur,Mumbai,1000,30000,300
-3,Hiranandani Verona CHSPowai,Powai,Mumbai,1690,39349,6.65
-2,Chandiwala Pearl PlatinumJogeshwari West,Jogeshwari West,Mumbai,1042,15355,1.6
-3,Lodha Bel AirJogeshwari West,Jogeshwari West,Mumbai,1200,23333,2.8
+3,Hiranandani Verona CHSPowai,Powai,Mumbai,1690,39349,665
+2,Chandiwala Pearl PlatinumJogeshwari West,Jogeshwari West,Mumbai,1042,15355,160
+3,Lodha Bel AirJogeshwari West,Jogeshwari West,Mumbai,1200,23333,280
 1,A Surti Universal CubicalJogeshwari West,Jogeshwari West,Mumbai,700,16857,118
 1,Pagarani Universal Garden BJogeshwari West,Jogeshwari West,Mumbai,700,17142,120
 3,Lodha Bel AirJogeshwari West,Jogeshwari West,Mumbai,1475,23728,350
 2,NA,Byculla,Mumbai,990,25757,255
 1,Tanvi Eminence Phase 2Mira Road East,Mira Road East,Mumbai,730,8493,62
-1,NA,Mazgaon,Mumbai,1120,18303,2.05
+1,NA,Mazgaon,Mumbai,1120,18303,205
 1,Seven Tides Fortune GardensByculla,Byculla,Mumbai,550,27272,150
-2,Lodha New Cuffe Parade Lodha AltiaWadala,Wadala,Mumbai,1494,21419,3.2
-3,Lodha New Cuffe ParadeWadala,Wadala,Mumbai,1811,20982,3.8
+2,Lodha New Cuffe Parade Lodha AltiaWadala,Wadala,Mumbai,1494,21419,320
+3,Lodha New Cuffe ParadeWadala,Wadala,Mumbai,1811,20982,380
 2,Rajkamal PrideGirgaon,Girgaon,Mumbai,1039,21655,225
 2, Qamar EnclaveMazgaon,Mazgaon,Mumbai,932,24141,225
 2,NA,Mazgaon,Mumbai,726,31680,230
@@ -2833,7 +2833,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,K Raheja VivareaAgripada,Agripada,Mumbai,3646,32912,1200
 2,Reputed Builder Sai NiketanDahisar,Dahisar,Mumbai,1424,21067,300
 2,Reputed Builder Ashiana ApartmentSantacruz East,Santacruz East,Mumbai,1188,33670,400
-2,Omkar MeridiaKurla,Kurla,Mumbai,1250,16800,2.1
+2,Omkar MeridiaKurla,Kurla,Mumbai,1250,16800,210
 5,Dheeraj Realty Dheeraj InsigniaSantacruz East,Santacruz East,Mumbai,3200,23437,750
 1,Man OpusMira Road East,Mira Road East,Mumbai,715,9510,68
 1,Man OpusMira Road East,Mira Road East,Mumbai,715,9090,65
@@ -2844,20 +2844,20 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Kalwa,Mumbai,820,10487,86
 3,NA,Kalwa,Mumbai,1305,10344,135
 2,NA,Kalwa,Mumbai,850,11176,95
-0,NA,Sarde,Mumbai,1089,284,3.1
+0,NA,Sarde,Mumbai,1089,284,310
 2,Reputed Builder Sunny TowerKoper Khairane,Koper Khairane,Mumbai,1050,9523,100
 2,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1100,21818,240
-3,Ravechi Shreeji DivineKharghar,Kharghar,Mumbai,1989,11664,2.32
+3,Ravechi Shreeji DivineKharghar,Kharghar,Mumbai,1989,11664,232
 2,NA,Ghansoli,Mumbai,1000,10500,105
-2,NA,Vashi,Mumbai,1100,14636,1.61
+2,NA,Vashi,Mumbai,1100,14636,161
 2,NA,Bandra West,Mumbai,1000,50000,500
 2,NA,Bandra West,Mumbai,900,33888,305
 2,NA,Khar West,Mumbai,1000,45000,450
-2,NA,Bandra West,Mumbai,1050,45238,4.75
+2,NA,Bandra West,Mumbai,1050,45238,475
 2,NA,Bandra West,Mumbai,900,44444,400
 2,NA,Bandra West,Mumbai,900,47222,425
-2,NA,Bandra West,Mumbai,1000,45700,4.57
-2,NA,Bandra West,Mumbai,1200,39583,4.75
+2,NA,Bandra West,Mumbai,1000,45700,457
+2,NA,Bandra West,Mumbai,1200,39583,475
 2,NA,Bandra West,Mumbai,1000,34000,340
 2,NA,Bandra West,Mumbai,900,41666,375
 2,NA,Bandra West,Mumbai,1000,60000,600
@@ -2887,20 +2887,20 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Reputed Builder Silver OakBandra West,Bandra West,Mumbai,1600,34375,550
 3,Swaraj Homes Park Lane ApartmentsBandra West,Bandra West,Mumbai,1250,37200,465
 3,NA,Bandra West,Mumbai,1500,43333,650
-3,NA,Bandra West,Mumbai,1400,38571,5.4
-2,Lodha The Park Town HousesLower Parel,Lower Parel,Mumbai,1473,27834,4.1
+3,NA,Bandra West,Mumbai,1400,38571,540
+2,Lodha The Park Town HousesLower Parel,Lower Parel,Mumbai,1473,27834,410
 3,Reputed Builder Rameshwaram ApartmentPrabhadevi,Prabhadevi,Mumbai,1850,39189,725
 3,Siddhivinayak HorizonPrabhadevi,Prabhadevi,Mumbai,1897,35582,675
 2,Spenta Alta VistaChembur,Chembur,Mumbai,1092,16483,180
-1,NA,Byculla,Mumbai,660,24242,1.6
+1,NA,Byculla,Mumbai,660,24242,160
 1,NA,Mazgaon,Mumbai,660,22727,150
 2,Lodha The Park Town HousesLower Parel,Lower Parel,Mumbai,1473,27087,399
 1,NA,Mazgaon,Mumbai,550,26363,145
 2,Atul Wallace FortunaMazagaon,Mazagaon,Mumbai,1277,35238,450
 3,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1300,22307,290
-3,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1200,21666,2.6
-3,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1500,20666,3.1
-2,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1050,20000,2.1
+3,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1200,21666,260
+3,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1500,20666,310
+2,L And T Seawoods Opal At West SquareSeawoods,Seawoods,Mumbai,1050,20000,210
 2,Ravechi Shreeji DivineKharghar,Kharghar,Mumbai,1555,11446,178
 1,NA,Koper Khairane,Mumbai,600,9333,56
 2,B and M AtlantisGhansoli,Ghansoli,Mumbai,1200,15833,190
@@ -2909,10 +2909,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Koper Khairane,Mumbai,650,10461,68
 2,NA,Dahisar Navi mumbai,Mumbai,1200,2916,35
 1,Reputed Anita Nagar CHSKandivali East,Kandivali East,Mumbai,400,14500,58
-2,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,810,24320,1.97
-3,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,1146,24083,2.76
+2,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,810,24320,197
+3,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,1146,24083,276
 3,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,977,24053,235
-2,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,750,23600,1.77
+2,Lodha Codename Limited EditionMulund East,Mulund East,Mumbai,750,23600,177
 1,Srishti Pride Phase 1Bhandup West,Bhandup West,Mumbai,465,20860,97
 2,Srishti Pride Phase 1Bhandup West,Bhandup West,Mumbai,630,20634,130
 1,JSB Nakshatra Pride INaigaon East,Naigaon East,Mumbai,621,6763,42
@@ -2934,36 +2934,36 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,JP NorthMira Road East,Mira Road East,Mumbai,1550,8967,139
 3,JP NorthMira Road East,Mira Road East,Mumbai,1550,8838,137
 3,JP NorthMira Road East,Mira Road East,Mumbai,1550,8709,135
-2,JP NorthMira Road East,Mira Road East,Mumbai,990,11515,1.14
-2,JP NorthMira Road East,Mira Road East,Mumbai,990,11111,1.1
+2,JP NorthMira Road East,Mira Road East,Mumbai,990,11515,114
+2,JP NorthMira Road East,Mira Road East,Mumbai,990,11111,110
 2,JP NorthMira Road East,Mira Road East,Mumbai,990,10101,100
 1,JP NorthMira Road East,Mira Road East,Mumbai,715,10209,73
 1,JP NorthMira Road East,Mira Road East,Mumbai,715,9790,70
 3,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1450,11724,170
 3,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1450,11379,165
-3,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1450,11034,1.6
+3,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1450,11034,160
 2,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1024,12207,125
 2,Enso Enso SanzaKandivali East,Kandivali East,Mumbai,940,10212,96
 3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1175,37021,435
 3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,971,36972,359
-3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1027,37000,3.8
+3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1027,37000,380
 2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,861,37049,319
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,795,36981,2.94
-3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1034,36943,3.82
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,965,36994,3.57
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,854,37002,3.16
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,853,37045,3.16
-3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1145,36943,4.23
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,795,36981,294
+3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1034,36943,382
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,965,36994,357
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,854,37002,316
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,853,37045,316
+3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,1145,36943,423
 3,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,986,37018,365
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,857,36989,3.17
-2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,845,36923,3.12
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,857,36989,317
+2,Kanakia ParisBandra Kurla Complex,Bandra Kurla Complex,Mumbai,845,36923,312
 1,Shraddha PrimeBhandup West,Bhandup West,Mumbai,324,18827,61
 1,Nipun GalaxyBhandup West,Bhandup West,Mumbai,313,21725,68
 1,Nipun GalaxyBhandup West,Bhandup West,Mumbai,302,21854,66
 1,Nipun GalaxyBhandup West,Bhandup West,Mumbai,311,21864,68
 1,NA,Panvel,Mumbai,650,3538,23
 1,Swaraj Homes Surji Dham CHSAiroli,Airoli,Mumbai,550,11909,65.5
-2,Sunteck Signia WaterfrontAiroli,Airoli,Mumbai,950,18105,1.72
+2,Sunteck Signia WaterfrontAiroli,Airoli,Mumbai,950,18105,172
 2,Sunteck Signia WaterfrontAiroli,Airoli,Mumbai,950,17789,169
 2,NA,Airoli,Mumbai,850,10823,92
 1,Unicorn Unicorn Global ArenaNaigaon East,Naigaon East,Mumbai,527,5201,27.41
@@ -2983,12 +2983,12 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Navkar City Phase I Part 4Naigaon East,Naigaon East,Mumbai,679,5758,39.1
 3,Kalpataru Siddhachal VIII Bldg 4Thane West,Thane West,Mumbai,1425,22105,315
 2,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1050,22380,235
-2,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1050,22095,2.32
-3,Kalpataru Siddhachal VIII Bldg 4Thane West,Thane West,Mumbai,1425,22456,3.2
-3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,22280,3.17
+2,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1050,22095,232
+3,Kalpataru Siddhachal VIII Bldg 4Thane West,Thane West,Mumbai,1425,22456,320
+3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,22280,317
 2,Radheya Sai EnclaveNaigaon East,Naigaon East,Mumbai,1000,4992,49.92
 2,JSB Nakshatra AarambhNaigaon East,Naigaon East,Mumbai,954,5069,48.36
-3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,22456,3.2
+3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,22456,320
 2,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,930,18279,170
 3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,22807,325
 1,Radheya Sai EnclaveNaigaon East,Naigaon East,Mumbai,677,4911,33.25
@@ -2997,7 +2997,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Radheya Sai EnclaveNaigaon East,Naigaon East,Mumbai,685,4817,33
 1,S D Aubburn at SarovaKandivali East,Kandivali East,Mumbai,600,15500,93
 1,S D Aubburn at SarovaKandivali East,Kandivali East,Mumbai,600,15583,93.5
-3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,21754,3.1
+3,Kalpataru Kalpataru VientaKandivali East,Kandivali East,Mumbai,1425,21754,310
 2,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,930,18817,175
 2,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,930,19354,180
 1,Navkar City Phase I Part 4Naigaon East,Naigaon East,Mumbai,719,5253,37.77
@@ -3013,12 +3013,12 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Wadhwa TW GardensKandivali East,Kandivali East,Mumbai,930,18387,171
 2,Wadhwa TW GardensKandivali East,Kandivali East,Mumbai,930,18602,173
 1,S D Aubburn at SarovaKandivali East,Kandivali East,Mumbai,600,15333,92
-1,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,650,16923,1.1
+1,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,650,16923,110
 1,Enso Enso SanzaKandivali East,Kandivali East,Mumbai,650,10923,71
-2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13786,1.08
-2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13722,1.08
-2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13468,1.06
-2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13722,1.08
+2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13786,108
+2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13722,108
+2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13468,106
+2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13722,108
 2,Enso Enso SanzaKandivali East,Kandivali East,Mumbai,940,9840,92.5
 2,UK IridiumKandivali East,Kandivali East,Mumbai,787,13595,107
 2,Enso Enso SanzaKandivali East,Kandivali East,Mumbai,940,9574,90
@@ -3028,7 +3028,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Realtech HeightsVasai,Vasai,Mumbai,718,5029,36.11
 1,Realtech HeightsVasai,Vasai,Mumbai,700,5121,35.85
 1,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,650,12307,80
-2,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,768,16666,1.28
+2,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,768,16666,128
 2,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,768,16406,126
 3,Navkar City Phase I Part 4Naigaon East,Naigaon East,Mumbai,1245,5373,66.9
 1,Kalpataru EleganteKandivali East,Kandivali East,Mumbai,650,19230,125
@@ -3049,7 +3049,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Navkar City Phase I Part 4Naigaon East,Naigaon East,Mumbai,1285,5378,69.11
 3,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,1003,16949,170
 1,Realtech HeightsVasai,Vasai,Mumbai,717,4885,35.03
-3,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,1003,17148,1.72
+3,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,1003,17148,172
 3,Chaitanya The Greens RadhakunjKandivali East,Kandivali East,Mumbai,1003,17248,173
 1,Ornate HeightsVasai,Vasai,Mumbai,711,5308,37.74
 1,Ornate HeightsVasai,Vasai,Mumbai,705,5359,37.78
@@ -3057,7 +3057,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Ornate HeightsVasai,Vasai,Mumbai,719,5262,37.84
 2,Rustomjee Urbania AureliaThane West,Thane West,Mumbai,1175,10042,118
 1,Ornate HeightsVasai,Vasai,Mumbai,735,5171,38.01
-2,Rustomjee UrbaniaThane West,Thane West,Mumbai,1190,10252,1.22
+2,Rustomjee UrbaniaThane West,Thane West,Mumbai,1190,10252,122
 3,Rustomjee UrbaniaThane West,Thane West,Mumbai,1765,11274,199
 1,Realtech HeightsVasai,Vasai,Mumbai,728,4809,35.01
 1,Realtech HeightsVasai,Vasai,Mumbai,711,4925,35.02
@@ -3073,15 +3073,15 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Realtech HeightsVasai,Vasai,Mumbai,1085,4783,51.9
 3,Lodha Amara 3 Bhk With DeckThane West,Thane West,Mumbai,1474,11872,175
 1,Lodha Amara Tower 26 27 28 30 34 35Thane West,Thane West,Mumbai,778,9447,73.5
-2,Piramal Vaikunth ThaneThane West,Thane West,Mumbai,1205,10041,1.21
+2,Piramal Vaikunth ThaneThane West,Thane West,Mumbai,1205,10041,121
 1,NA,Bhiwandi,Mumbai,585,3500,20.47
-2,Riddhi Siddhi HeritageAiroli,Airoli,Mumbai,950,11578,1.1
+2,Riddhi Siddhi HeritageAiroli,Airoli,Mumbai,950,11578,110
 3,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,1244,22990,285
-2,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,884,22738,2.01
-3,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,1086,22192,2.41
+2,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,884,22738,201
+3,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,1086,22192,241
 2,Neelam Senroofs Phase IINahur East,Nahur East,Mumbai,828,21739,179
 3,Kalpataru Kalpataru ElitusMulund West,Mulund West,Mumbai,1015,23152,235
-2,Srishti OasisBhandup West,Bhandup West,Mumbai,623,20545,1.28
+2,Srishti OasisBhandup West,Bhandup West,Mumbai,623,20545,128
 1,Srishti OasisBhandup West,Bhandup West,Mumbai,481,20374,98
 1,Mahaveer River Valley Tower Phase IKalyan West,Kalyan West,Mumbai,690,5724,39.5
 2,NA,Kalyan West,Mumbai,960,5416,52
@@ -3115,7 +3115,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Kohinoor Eden B1Kalyan East,Kalyan East,Mumbai,387,8088,31.3
 1,Tater FlorenceKarjat,Karjat,Mumbai,426,3403,14.5
 1,Gee Cee The Mist Phase IKarjat,Karjat,Mumbai,610,3278,20
-2,Reputed Builder Sayali CHS LtdAiroli,Airoli,Mumbai,950,11578,1.1
+2,Reputed Builder Sayali CHS LtdAiroli,Airoli,Mumbai,950,11578,110
 1,NA,Koper Khairane,Mumbai,600,10833,65
 1, Batul HouseByculla,Byculla,Mumbai,710,24647,175
 2,NA,Kalyan West,Mumbai,1000,6500,65
@@ -3143,7 +3143,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Bhiwandi,Mumbai,395,3500,13.82
 1,NA,Bhiwandi,Mumbai,585,3499,20.47
 0,NA,Sarde,Mumbai,1089,288,3.14
-1,Aurum Q Residences R2Ghansoli,Ghansoli,Mumbai,650,16615,1.08
+1,Aurum Q Residences R2Ghansoli,Ghansoli,Mumbai,650,16615,108
 3,Darvesh Ayesha TowerJogeshwari West,Jogeshwari West,Mumbai,1203,29093,350
 1,NA,Bhiwandi,Mumbai,385,4100,15.78
 1,Reputed Builder Mid Town AvenueKalyan West,Kalyan West,Mumbai,750,6933,52
@@ -3161,10 +3161,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Vashi,Mumbai,600,16666,100
 2,Nrose Northern HillsDahisar,Dahisar,Mumbai,950,15052,143
 2,Hiranandani Villa GrandThane West,Thane West,Mumbai,1000,14000,140
-3,Rustomjee Urbania AstraeaThane West,Thane West,Mumbai,1265,12648,1.6
+3,Rustomjee Urbania AstraeaThane West,Thane West,Mumbai,1265,12648,160
 1,NA,Badlapur East,Mumbai,634,3627,23
 0,NA,Belondakhar,Mumbai,1089,321,3.5
-1,NA,Jogeshwari West,Mumbai,550,19636,1.08
+1,NA,Jogeshwari West,Mumbai,550,19636,108
 2,NA,Bhiwandi,Mumbai,650,3500,22.75
 1,NA,Bhiwandi,Mumbai,560,4100,22.96
 1,NA,Bhiwandi,Mumbai,560,4100,22.96
@@ -3188,21 +3188,21 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 0,NA,Belondakhar,Mumbai,1089,307,3.35
 0,NA,Sarde,Mumbai,1089,303,3.3
 2,A Surti Universal CubicalJogeshwari West,Jogeshwari West,Mumbai,750,20000,150
-2,Reputed Builder Hill Park TowerJogeshwari West,Jogeshwari West,Mumbai,1000,16000,1.6
+2,Reputed Builder Hill Park TowerJogeshwari West,Jogeshwari West,Mumbai,1000,16000,160
 2,Sagar Sagar TowersJogeshwari West,Jogeshwari West,Mumbai,650,21076,137
 1,NA,Bhiwandi,Mumbai,785,4099,32.18
 1,NA,Vichumbe,Mumbai,590,5423,32
 1,NA,Vichumbe,Mumbai,640,5468,35
 4,Supreme Belmac Riverside IPanvel,Panvel,Mumbai,2100,13095,275
 1,Shree Sawlaram SrushtiKalyan West,Kalyan West,Mumbai,750,6400,48
-3,Transcon Triumph Tower 4Andheri West,Andheri West,Mumbai,947,36012,3.41
+3,Transcon Triumph Tower 4Andheri West,Andheri West,Mumbai,947,36012,341
 2,Transcon Triumph Tower 4Andheri West,Andheri West,Mumbai,659,36003,237
 2,Transcon Triumph Tower 4Andheri West,Andheri West,Mumbai,708,36037,254
 3,NA,Kalyan West,Mumbai,1465,6825,100
 2,Reputed Builder Thames CHSKalyan West,Kalyan West,Mumbai,870,5747,50
 3,NA,Kalyan West,Mumbai,1465,6825,100
 2,NA,Kalyan West,Mumbai,1150,7652,88
-3,NA,Kalyan West,Mumbai,1500,7333,1.1
+3,NA,Kalyan West,Mumbai,1500,7333,110
 3,MS Vrindavan ParadiseKalyan West,Kalyan West,Mumbai,1205,7883,95
 2,Vision HeightsJogeshwari West,Jogeshwari West,Mumbai,900,22222,200
 1,United ParkJogeshwari West,Jogeshwari West,Mumbai,600,16666,100
@@ -3225,7 +3225,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Reputed Builder Seasons ResidencySantacruz West,Santacruz West,Mumbai,1100,7136,78.5
 3,OSSK Mrunmayi PalaceKalyan West,Kalyan West,Mumbai,1475,7796,115
 1,Raikar New Bomby Safalya CHSAiroli,Airoli,Mumbai,555,13513,75
-3,Progressive CrownKoper Khairane,Koper Khairane,Mumbai,1540,16753,2.58
+3,Progressive CrownKoper Khairane,Koper Khairane,Mumbai,1540,16753,258
 3,Progressive CrownKoper Khairane,Koper Khairane,Mumbai,1550,16451,255
 3,RS RegencyKoper Khairane,Koper Khairane,Mumbai,1350,13185,178
 3,RS RegencyKoper Khairane,Koper Khairane,Mumbai,1350,13259,179
@@ -3247,9 +3247,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,10917,100
 2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,10807,99
 1,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,629,11287,71
-2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,11026,1.01
+2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,11026,101
 1,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,629,11923,75
-2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,11135,1.02
+2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,11135,102
 2,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,916,10917,100
 1,Puro Shree DeeplaxamiBhandup West,Bhandup West,Mumbai,600,11500,69
 2,NA,Taloje,Mumbai,750,1866,14
@@ -3268,8 +3268,8 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,NA,Koper Khairane,Mumbai,1050,15714,165
 1,Reputed Builder Hill Park TowerJogeshwari West,Jogeshwari West,Mumbai,550,22727,125
 1,NA,Jogeshwari West,Mumbai,500,23400,117
-3,Ahuja LamorJogeshwari West,Jogeshwari West,Mumbai,1200,19416,2.33
-2,Reputed Builder AR Avenue SocietyJogeshwari West,Jogeshwari West,Mumbai,800,20000,1.6
+3,Ahuja LamorJogeshwari West,Jogeshwari West,Mumbai,1200,19416,233
+2,Reputed Builder AR Avenue SocietyJogeshwari West,Jogeshwari West,Mumbai,800,20000,160
 1,A Surti Universal CubicalJogeshwari West,Jogeshwari West,Mumbai,530,22641,120
 1,Vision HeightsJogeshwari West,Jogeshwari West,Mumbai,600,21000,126
 2,NA,Jogeshwari West,Mumbai,750,19466,1.46
@@ -3300,7 +3300,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Ajay Bhav ResidencyKasheli,Kasheli,Mumbai,730,4041,29.5
 2,Venus Skky City Phase IDombivali,Dombivali,Mumbai,677,7385,50
 2,Kishor Vishnu Bhoir Sukur Enclave AThane West,Thane West,Mumbai,1000,8500,85
-2,Reputed Builder AlinaThane West,Thane West,Mumbai,1000,14800,1.48
+2,Reputed Builder AlinaThane West,Thane West,Mumbai,1000,14800,148
 3,Hiranandani CanaryThane West,Thane West,Mumbai,1500,15333,230
 1,Runwal GardensDombivali,Dombivali,Mumbai,500,8200,41
 2,Lodha Casa BellaDombivali,Dombivali,Mumbai,864,5787,50
@@ -3314,11 +3314,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Lodha Casa Bella GoldDombivali,Dombivali,Mumbai,864,6712,58
 2,Lodha Casa Bella GoldDombivali,Dombivali,Mumbai,864,6018,52
 1,Raghav MarvelKurla,Kurla,Mumbai,383,22432,85.69
-1,Raghav MarvelKurla,Kurla,Mumbai,454,22416,1.01
+1,Raghav MarvelKurla,Kurla,Mumbai,454,22416,101
 2,Raghav MarvelKurla,Kurla,Mumbai,629,22421,140
-2,Raghav MarvelKurla,Kurla,Mumbai,458,22405,1.02
+2,Raghav MarvelKurla,Kurla,Mumbai,458,22405,102
 2,Tharwani Riverdale VistaKalyan West,Kalyan West,Mumbai,1000,7200,72
-3,B and M Millennium AvanishAiroli,Airoli,Mumbai,1500,18666,2.8
+3,B and M Millennium AvanishAiroli,Airoli,Mumbai,1500,18666,280
 2,NA,Koper Khairane,Mumbai,1110,10090,112
 2,NA,Koper Khairane,Mumbai,1125,11555,130
 1,Om Sai LaxmiVikhroli,Vikhroli,Mumbai,630,14126,89
@@ -3338,7 +3338,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Vasai east,Mumbai,650,5923,38.5
 1,Mayfair Virar Gardens Phase 2Virar,Virar,Mumbai,600,5833,35
 1,NA,Bhiwandi,Mumbai,545,4099,22.34
-1,Prime Amil Brothers CHSLJogeshwari West,Jogeshwari West,Mumbai,500,22000,1.1
+1,Prime Amil Brothers CHSLJogeshwari West,Jogeshwari West,Mumbai,500,22000,110
 2,Reputed Builder Sai Ganga ApartmentAndheri West,Andheri West,Mumbai,800,10625,85
 1,Lodha Codename PremierDombivali,Dombivali,Mumbai,600,7500,45
 2,Runwal GardensDombivali,Dombivali,Mumbai,1000,6000,60
@@ -3354,14 +3354,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Ananta Shri Rajendra SrushtiPalghar,Palghar,Mumbai,443,4507,19.92
 2,Srishti OasisBhandup West,Bhandup West,Mumbai,930,13655,127
 2,Srishti OasisBhandup West,Bhandup West,Mumbai,700,14000,98
-2,Nirvaana PearlChembur,Chembur,Mumbai,1190,16218,1.93
+2,Nirvaana PearlChembur,Chembur,Mumbai,1190,16218,193
 2,Nirvaana PearlChembur,Chembur,Mumbai,877,15963,140
 2,Haware IPSAGhatkopar East,Ghatkopar East,Mumbai,650,18153,118
-1,NA,Vashi,Mumbai,650,17076,1.11
-2,Rupvakula Prime VistaGhatkopar East,Ghatkopar East,Mumbai,700,16571,1.16
-1,NA,Vashi,Mumbai,650,17076,1.11
-2,Rupvakula Prime VistaGhatkopar East,Ghatkopar East,Mumbai,700,16571,1.16
-2,Haware IPSAGhatkopar East,Ghatkopar East,Mumbai,920,17173,1.58
+1,NA,Vashi,Mumbai,650,17076,111
+2,Rupvakula Prime VistaGhatkopar East,Ghatkopar East,Mumbai,700,16571,116
+1,NA,Vashi,Mumbai,650,17076,111
+2,Rupvakula Prime VistaGhatkopar East,Ghatkopar East,Mumbai,700,16571,116
+2,Haware IPSAGhatkopar East,Ghatkopar East,Mumbai,920,17173,158
 1,Rupvakula Prime VistaGhatkopar East,Ghatkopar East,Mumbai,600,17333,104
 2,NA,Kalyan West,Mumbai,830,4578,38
 1,NA,Kalyan West,Mumbai,590,4576,27
@@ -3380,17 +3380,17 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Runwal GardensDombivali,Dombivali,Mumbai,900,6777,61
 2,Runwal GardensDombivali,Dombivali,Mumbai,800,7250,58
 3,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1432,17458,250
-3,Hiranandani Rodas Enclave PhillipaThane West,Thane West,Mumbai,1850,17837,3.3
+3,Hiranandani Rodas Enclave PhillipaThane West,Thane West,Mumbai,1850,17837,330
 1,Hiranandani FedoraThane West,Thane West,Mumbai,650,13384,87
 3,Reputed Builder IndrapuramVasai east,Vasai east,Mumbai,1250,4400,55
-3,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,1086,21271,2.31
+3,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,1086,21271,231
 2,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,828,20531,170
-2,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,834,20649,1.72
-3,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,1162,23752,2.76
+2,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,834,20649,172
+3,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,1162,23752,276
 2,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,844,21946,185
 2,Neelam Senroofs Phase IIINahur East,Nahur East,Mumbai,838,20883,175
 2,Reputed Builder Vasant ValleyKalyan West,Kalyan West,Mumbai,1120,8035,90
-3,Reputed Builder Vasant ValleyKalyan West,Kalyan West,Mumbai,1550,8580,1.33
+3,Reputed Builder Vasant ValleyKalyan West,Kalyan West,Mumbai,1550,8580,133
 1,Reputed Builder Alankar CHSAiroli,Airoli,Mumbai,650,12000,78
 2,Lodha CrownThane West,Thane West,Mumbai,795,12578,100
 1,Godrej AscendThane East,Thane East,Mumbai,589,12903,76
@@ -3411,7 +3411,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Dombivali East,Mumbai,300,5500,16.5
 1,NA,Bhiwandi,Mumbai,605,4100,24.8
 1,NA,Bhiwandi,Mumbai,530,4100,21.73
-1,Reputed Builder Sarkar ResidencyByculla,Byculla,Mumbai,396,27777,1.1
+1,Reputed Builder Sarkar ResidencyByculla,Byculla,Mumbai,396,27777,110
 1,Lodha New Cuffe Parade Lodha AltiaWadala,Wadala,Mumbai,848,19811,168
 1,NA,Bhuleshwar,Mumbai,577,23396,135
 2,NDW Proxima ResidencesAndheri East,Andheri East,Mumbai,1292,13931,180
@@ -3429,10 +3429,10 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Ajmera I LandWadala,Wadala,Mumbai,2740,17883,490
 1,Kapil BayviewByculla,Byculla,Mumbai,650,23076,150
 2,Kapil BayviewByculla,Byculla,Mumbai,750,26666,200
-1,NA,Byculla,Mumbai,665,31578,2.1
+1,NA,Byculla,Mumbai,665,31578,210
 2,Reputed Builder Aqua GemMazgaon,Mazgaon,Mumbai,845,35502,300
 1,Reputed Builder Ajay ApartmentMalad West,Malad West,Mumbai,594,32828,195
-2,NA,Mazgaon,Mumbai,1142,28896,3.3
+2,NA,Mazgaon,Mumbai,1142,28896,330
 2,NA,Mazgaon,Mumbai,1056,32196,340
 1,NA,Byculla,Mumbai,750,15333,115
 1,Reputed Builder Sarkar ResidencyByculla,Byculla,Mumbai,783,30012,235
@@ -3451,7 +3451,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Sandu SanskarGhatkopar West,Ghatkopar West,Mumbai,990,18888,187
 0,NA,Shir Gaon,Mumbai,3250,553,18
 0,NA,Sarde,Mumbai,1089,642,7
-2,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1083,12742,1.38
+2,Lodha Codename Crown JewelThane West,Thane West,Mumbai,1083,12742,138
 2,Lodha Codename Crown JewelThane West,Thane West,Mumbai,927,12729,118
 1,Lodha Amara 3 Bhk With DeckThane West,Thane West,Mumbai,669,13004,87
 2,NA,Taloje,Mumbai,1200,2916,35
@@ -3496,11 +3496,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Bhiwandi,Mumbai,375,4098,15.37
 2,Nandkumar Janki LegacyMira Road East,Mira Road East,Mumbai,1050,8952,94
 1,Nandkumar Janki LegacyMira Road East,Mira Road East,Mumbai,665,8721,58
-3,Kalpataru ImmensaThane West,Thane West,Mumbai,1150,20347,2.34
+3,Kalpataru ImmensaThane West,Thane West,Mumbai,1150,20347,234
 2,Kalpataru ImmensaThane West,Thane West,Mumbai,808,20297,164
 1,Kalpataru ImmensaThane West,Thane West,Mumbai,450,18222,82
 4,Kalpataru ImmensaThane West,Thane West,Mumbai,1753,22589,396
-3,Kalpataru ImmensaThane West,Thane West,Mumbai,1324,20241,2.68
+3,Kalpataru ImmensaThane West,Thane West,Mumbai,1324,20241,268
 2,Kalpataru ImmensaThane West,Thane West,Mumbai,598,19899,119
 3,Kalpataru ImmensaThane West,Thane West,Mumbai,991,20484,203
 2,Kalpataru ImmensaThane West,Thane West,Mumbai,663,20663,137
@@ -3513,7 +3513,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Lodha Casa Bella GoldDombivali,Dombivali,Mumbai,918,7734,71
 3,Kanakia Future City EPowai,Powai,Mumbai,1246,31872,397
 2,Kanakia Future City EPowai,Powai,Mumbai,622,36977,229
-2,Kanakia Future City EPowai,Powai,Mumbai,627,36977,2.31
+2,Kanakia Future City EPowai,Powai,Mumbai,627,36977,231
 3,Kanakia Future City EPowai,Powai,Mumbai,1004,31904,319
 2,Wadhwa Atmosphere O2Mulund West,Mulund West,Mumbai,572,27797,159
 2,Wadhwa Atmosphere O2Mulund West,Mulund West,Mumbai,623,27797,173
@@ -3523,9 +3523,9 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Mira Road East,Mumbai,760,7894,60
 1,Shree Savaliya AvenueMira Road East,Mira Road East,Mumbai,740,7702,57
 2,RNA NG Ocean PearlMira Road East,Mira Road East,Mumbai,900,8888,79.99
-3,NA,Kharghar,Mumbai,1815,8750,1.58
+3,NA,Kharghar,Mumbai,1815,8750,158
 2,Ashwin Sheth Group Vasant OscarMulund West,Mulund West,Mumbai,950,22631,215
-2,NA,Kharghar,Mumbai,1275,8750,1.11
+2,NA,Kharghar,Mumbai,1275,8750,111
 2,Today MangalamPanvel,Panvel,Mumbai,875,6856,59.99
 1,Today MangalamPanvel,Panvel,Mumbai,579,6735,39
 2,Lodha Casa Bella GoldDombivali,Dombivali,Mumbai,864,6030,52.1
@@ -3578,7 +3578,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,NA,Airoli,Mumbai,555,12612,70
 1,NA,Airoli,Mumbai,555,12972,72
 1,Reputed Builder Palm SpringsAiroli,Airoli,Mumbai,580,14655,85
-2,NA,Airoli,Mumbai,950,11578,1.1
+2,NA,Airoli,Mumbai,950,11578,110
 1,Prathmesh Narmada CHSAiroli,Airoli,Mumbai,555,15315,85
 1,NA,Airoli,Mumbai,555,12612,70
 2,NA,Airoli,Mumbai,850,8823,75
@@ -3639,11 +3639,11 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 3,Arkade CrownBorivali West,Borivali West,Mumbai,1215,19753,240
 3,Arkade CrownBorivali West,Borivali West,Mumbai,1215,20576,250
 3,Arkade CrownBorivali West,Borivali West,Mumbai,1215,19341,235
-2,Arkade CrownBorivali West,Borivali West,Mumbai,1095,18356,2.01
+2,Arkade CrownBorivali West,Borivali West,Mumbai,1095,18356,201
 1,Arkade CrownBorivali West,Borivali West,Mumbai,715,17482,125
 1,Arkade CrownBorivali West,Borivali West,Mumbai,715,17202,123
 1,Arkade CrownBorivali West,Borivali West,Mumbai,715,16083,115
-1,Arkade CrownBorivali West,Borivali West,Mumbai,715,15524,1.11
+1,Arkade CrownBorivali West,Borivali West,Mumbai,715,15524,111
 3,Arkade CrownBorivali West,Borivali West,Mumbai,1215,20164,245
 3,Arkade CrownBorivali West,Borivali West,Mumbai,1215,19753,240
 1,Shapoorji Pallonji Joyville VirarVirar,Virar,Mumbai,595,7478,44.5
@@ -3677,14 +3677,14 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 1,Reputed Builder Shripal Shanti ComplexVirar,Virar,Mumbai,710,5070,36
 2,Koperkhairane Infinity TowerKoper Khairane,Koper Khairane,Mumbai,1091,11915,130
 2,Reputed Builder MadhubanKoper Khairane,Koper Khairane,Mumbai,1300,18461,240
-2,Reputed Builder Seawind ResidencyKoper Khairane,Koper Khairane,Mumbai,1125,13422,1.51
+2,Reputed Builder Seawind ResidencyKoper Khairane,Koper Khairane,Mumbai,1125,13422,151
 2,Reputed Builder Koparkhairane shree sairamKoper Khairane,Koper Khairane,Mumbai,1075,10697,115
 2,Shanti Green PalmsGhansoli,Ghansoli,Mumbai,1145,12401,142
 3,Reputed Builder Koparkhairane shree sairamKoper Khairane,Koper Khairane,Mumbai,1365,9890,135
 3,Sai Proviso ApartmentSector-20 Koparkhairane,Sector-20 Koparkhairane,Mumbai,1524,12467,190
 3,Sai Proviso ApartmentSector-20 Koparkhairane,Sector-20 Koparkhairane,Mumbai,1524,12204,186
 2,NA,Ghansoli,Mumbai,1080,12037,130
-2,Reputed Builder Koparkhairane shree sairamKoper Khairane,Koper Khairane,Mumbai,1125,9777,1.1
+2,Reputed Builder Koparkhairane shree sairamKoper Khairane,Koper Khairane,Mumbai,1125,9777,110
 2,Shree Shree HavenMira Road East,Mira Road East,Mumbai,950,7631,72.5
 2,Strawberry OnyxMira Road East,Mira Road East,Mumbai,970,8350,81
 2,JK IRIS Tower 1 And 2Mira Road East,Mira Road East,Mumbai,1013,8193,83
@@ -3835,7 +3835,7 @@ BHK,project,Location,City,Total sqft,price_sqft,price in Lakh
 2,Ashish SamriddhiMira Road East,Mira Road East,Mumbai,1024,12109,124
 3,NA,Vashi,Mumbai,1450,22413,325
 3,NA,Vashi,Mumbai,1700,14588,248
-3,NA,Vashi,Mumbai,1700,12352,2.1
+3,NA,Vashi,Mumbai,1700,12352,210
 3,NA,Vashi,Mumbai,1700,14705,250
 2,Reputed Builder Jimmy Tower ApartmentKoper Khairane,Koper Khairane,Mumbai,1050,13619,143
 3,B and M AtlantisGhansoli,Ghansoli,Mumbai,1525,11934,182
